@@ -1,0 +1,7 @@
+Employee Attendance & Productivity MIS
+
+Objective: monitor attendance and convert raw records into management-ready MIS reports.
+
+Workflow: Excel -> SQL -> Power BI.
+
+Deliverables: KPI reporting, department analysis, employee analysis, monthly trend and operational monitoring.

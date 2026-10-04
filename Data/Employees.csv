@@ -1,0 +1,21 @@
+Employee_ID,Employee_Name,Department,Designation
+EMP001,Aarav Sharma,Sales,Executive
+EMP002,Priya Singh,Sales,Executive
+EMP003,Rohan Verma,Sales,Senior Executive
+EMP004,Neha Gupta,Sales,Executive
+EMP005,Aditya Mishra,Sales,Team Lead
+EMP006,Kavya Patel,HR,Executive
+EMP007,Rahul Yadav,HR,Executive
+EMP008,Ananya Jain,HR,HR Manager
+EMP009,Vivek Kumar,Finance,Executive
+EMP010,Sneha Agarwal,Finance,Senior Executive
+EMP011,Mohit Tiwari,Finance,Team Lead
+EMP012,Ishita Roy,IT,Developer
+EMP013,Karan Singh,IT,Support Executive
+EMP014,Pooja Das,IT,Developer
+EMP015,Nitin Gupta,IT,Team Lead
+EMP016,Simran Kaur,Operations,Executive
+EMP017,Amit Chauhan,Operations,Executive
+EMP018,Divya Saxena,Operations,Senior Executive
+EMP019,Manish Rai,Operations,Team Lead
+EMP020,Tanya Kapoor,Admin,Executive

@@ -1,0 +1,1301 @@
+Date,Employee_ID,Employee_Name,Department,Designation,Status,Check_In,Check_Out,Work_Hours
+2026-04-01,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-04-02,EMP001,Aarav Sharma,Sales,Executive,Present,08:51,18:02,9.18
+2026-04-03,EMP001,Aarav Sharma,Sales,Executive,Present,09:04,17:53,8.82
+2026-04-06,EMP001,Aarav Sharma,Sales,Executive,Absent,,,0.0
+2026-04-07,EMP001,Aarav Sharma,Sales,Executive,Present,09:24,17:50,8.43
+2026-04-08,EMP001,Aarav Sharma,Sales,Executive,WFH,09:17,17:47,8.5
+2026-04-09,EMP001,Aarav Sharma,Sales,Executive,Present,08:55,17:58,9.05
+2026-04-10,EMP001,Aarav Sharma,Sales,Executive,Present,09:22,18:23,9.02
+2026-04-13,EMP001,Aarav Sharma,Sales,Executive,Present,09:25,17:57,8.53
+2026-04-14,EMP001,Aarav Sharma,Sales,Executive,Absent,,,0.0
+2026-04-15,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-04-16,EMP001,Aarav Sharma,Sales,Executive,Absent,,,0.0
+2026-04-17,EMP001,Aarav Sharma,Sales,Executive,Late,09:49,18:13,8.4
+2026-04-20,EMP001,Aarav Sharma,Sales,Executive,WFH,09:07,17:45,8.63
+2026-04-21,EMP001,Aarav Sharma,Sales,Executive,Present,09:17,18:06,8.82
+2026-04-22,EMP001,Aarav Sharma,Sales,Executive,Present,08:59,17:58,8.98
+2026-04-23,EMP001,Aarav Sharma,Sales,Executive,Present,08:56,17:50,8.9
+2026-04-24,EMP001,Aarav Sharma,Sales,Executive,Present,08:56,18:07,9.18
+2026-04-27,EMP001,Aarav Sharma,Sales,Executive,Present,09:06,17:47,8.68
+2026-04-28,EMP001,Aarav Sharma,Sales,Executive,Absent,,,0.0
+2026-04-29,EMP001,Aarav Sharma,Sales,Executive,Present,09:24,17:52,8.47
+2026-04-30,EMP001,Aarav Sharma,Sales,Executive,Present,08:55,18:20,9.42
+2026-05-01,EMP001,Aarav Sharma,Sales,Executive,Present,09:13,18:21,9.13
+2026-05-04,EMP001,Aarav Sharma,Sales,Executive,Present,08:54,17:47,8.88
+2026-05-05,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-05-06,EMP001,Aarav Sharma,Sales,Executive,Present,09:08,17:50,8.7
+2026-05-07,EMP001,Aarav Sharma,Sales,Executive,Present,08:56,18:09,9.22
+2026-05-08,EMP001,Aarav Sharma,Sales,Executive,Present,09:19,18:25,9.1
+2026-05-11,EMP001,Aarav Sharma,Sales,Executive,Present,09:00,18:08,9.13
+2026-05-12,EMP001,Aarav Sharma,Sales,Executive,Present,09:03,18:27,9.4
+2026-05-13,EMP001,Aarav Sharma,Sales,Executive,Present,08:54,18:23,9.48
+2026-05-14,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-05-15,EMP001,Aarav Sharma,Sales,Executive,Present,09:24,18:00,8.6
+2026-05-18,EMP001,Aarav Sharma,Sales,Executive,Present,09:19,18:09,8.83
+2026-05-19,EMP001,Aarav Sharma,Sales,Executive,Present,09:25,17:59,8.57
+2026-05-20,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-05-21,EMP001,Aarav Sharma,Sales,Executive,Present,08:53,17:59,9.1
+2026-05-22,EMP001,Aarav Sharma,Sales,Executive,Present,09:10,18:10,9.0
+2026-05-25,EMP001,Aarav Sharma,Sales,Executive,Present,08:54,17:58,9.07
+2026-05-26,EMP001,Aarav Sharma,Sales,Executive,WFH,09:10,17:58,8.8
+2026-05-27,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-05-28,EMP001,Aarav Sharma,Sales,Executive,Present,09:15,18:26,9.18
+2026-05-29,EMP001,Aarav Sharma,Sales,Executive,Present,08:59,18:01,9.03
+2026-06-01,EMP001,Aarav Sharma,Sales,Executive,Present,09:05,18:20,9.25
+2026-06-02,EMP001,Aarav Sharma,Sales,Executive,Late,10:02,18:22,8.33
+2026-06-03,EMP001,Aarav Sharma,Sales,Executive,Present,09:13,17:59,8.77
+2026-06-04,EMP001,Aarav Sharma,Sales,Executive,Present,09:22,18:16,8.9
+2026-06-05,EMP001,Aarav Sharma,Sales,Executive,Present,08:53,17:52,8.98
+2026-06-08,EMP001,Aarav Sharma,Sales,Executive,Present,09:00,18:28,9.47
+2026-06-09,EMP001,Aarav Sharma,Sales,Executive,Present,08:54,18:09,9.25
+2026-06-10,EMP001,Aarav Sharma,Sales,Executive,Present,09:19,18:18,8.98
+2026-06-11,EMP001,Aarav Sharma,Sales,Executive,Present,09:25,17:45,8.33
+2026-06-12,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-06-15,EMP001,Aarav Sharma,Sales,Executive,Absent,,,0.0
+2026-06-16,EMP001,Aarav Sharma,Sales,Executive,Present,09:24,18:02,8.63
+2026-06-17,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-06-18,EMP001,Aarav Sharma,Sales,Executive,Present,08:57,18:03,9.1
+2026-06-19,EMP001,Aarav Sharma,Sales,Executive,Present,09:00,18:14,9.23
+2026-06-22,EMP001,Aarav Sharma,Sales,Executive,Present,09:06,18:17,9.18
+2026-06-23,EMP001,Aarav Sharma,Sales,Executive,Present,09:22,17:51,8.48
+2026-06-24,EMP001,Aarav Sharma,Sales,Executive,Leave,,,0.0
+2026-06-25,EMP001,Aarav Sharma,Sales,Executive,Present,09:22,18:23,9.02
+2026-06-26,EMP001,Aarav Sharma,Sales,Executive,Present,08:59,18:08,9.15
+2026-06-29,EMP001,Aarav Sharma,Sales,Executive,Present,09:24,18:18,8.9
+2026-06-30,EMP001,Aarav Sharma,Sales,Executive,Present,09:10,18:16,9.1
+2026-04-01,EMP002,Priya Singh,Sales,Executive,Present,08:57,18:08,9.18
+2026-04-02,EMP002,Priya Singh,Sales,Executive,Present,09:05,17:48,8.72
+2026-04-03,EMP002,Priya Singh,Sales,Executive,Present,08:55,17:50,8.92
+2026-04-06,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-04-07,EMP002,Priya Singh,Sales,Executive,Present,08:54,18:19,9.42
+2026-04-08,EMP002,Priya Singh,Sales,Executive,Present,08:58,18:27,9.48
+2026-04-09,EMP002,Priya Singh,Sales,Executive,Present,09:25,17:55,8.5
+2026-04-10,EMP002,Priya Singh,Sales,Executive,Present,09:23,18:23,9.0
+2026-04-13,EMP002,Priya Singh,Sales,Executive,Present,09:03,18:19,9.27
+2026-04-14,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-04-15,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-04-16,EMP002,Priya Singh,Sales,Executive,Present,09:09,18:10,9.02
+2026-04-17,EMP002,Priya Singh,Sales,Executive,Leave,,,0.0
+2026-04-20,EMP002,Priya Singh,Sales,Executive,Leave,,,0.0
+2026-04-21,EMP002,Priya Singh,Sales,Executive,Present,09:18,18:18,9.0
+2026-04-22,EMP002,Priya Singh,Sales,Executive,Present,08:57,18:00,9.05
+2026-04-23,EMP002,Priya Singh,Sales,Executive,Present,08:54,18:06,9.2
+2026-04-24,EMP002,Priya Singh,Sales,Executive,Present,09:25,17:59,8.57
+2026-04-27,EMP002,Priya Singh,Sales,Executive,WFH,09:04,17:45,8.68
+2026-04-28,EMP002,Priya Singh,Sales,Executive,Present,08:53,17:59,9.1
+2026-04-29,EMP002,Priya Singh,Sales,Executive,Present,08:52,18:06,9.23
+2026-04-30,EMP002,Priya Singh,Sales,Executive,Present,09:22,18:00,8.63
+2026-05-01,EMP002,Priya Singh,Sales,Executive,Present,09:21,17:58,8.62
+2026-05-04,EMP002,Priya Singh,Sales,Executive,Late,10:05,18:00,7.92
+2026-05-05,EMP002,Priya Singh,Sales,Executive,Present,09:16,17:57,8.68
+2026-05-06,EMP002,Priya Singh,Sales,Executive,Present,08:56,18:27,9.52
+2026-05-07,EMP002,Priya Singh,Sales,Executive,Present,09:12,18:12,9.0
+2026-05-08,EMP002,Priya Singh,Sales,Executive,Present,09:19,17:48,8.48
+2026-05-11,EMP002,Priya Singh,Sales,Executive,Leave,,,0.0
+2026-05-12,EMP002,Priya Singh,Sales,Executive,Leave,,,0.0
+2026-05-13,EMP002,Priya Singh,Sales,Executive,Leave,,,0.0
+2026-05-14,EMP002,Priya Singh,Sales,Executive,Present,08:53,18:10,9.28
+2026-05-15,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-05-18,EMP002,Priya Singh,Sales,Executive,Present,08:56,18:00,9.07
+2026-05-19,EMP002,Priya Singh,Sales,Executive,Present,09:02,18:19,9.28
+2026-05-20,EMP002,Priya Singh,Sales,Executive,Present,08:58,18:12,9.23
+2026-05-21,EMP002,Priya Singh,Sales,Executive,Present,09:07,18:14,9.12
+2026-05-22,EMP002,Priya Singh,Sales,Executive,Present,08:54,18:13,9.32
+2026-05-25,EMP002,Priya Singh,Sales,Executive,Late,09:38,18:26,8.8
+2026-05-26,EMP002,Priya Singh,Sales,Executive,Late,09:40,18:00,8.33
+2026-05-27,EMP002,Priya Singh,Sales,Executive,Present,09:16,18:16,9.0
+2026-05-28,EMP002,Priya Singh,Sales,Executive,Present,09:03,18:10,9.12
+2026-05-29,EMP002,Priya Singh,Sales,Executive,Present,09:00,18:09,9.15
+2026-06-01,EMP002,Priya Singh,Sales,Executive,Present,09:14,18:01,8.78
+2026-06-02,EMP002,Priya Singh,Sales,Executive,Present,09:08,18:12,9.07
+2026-06-03,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-06-04,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-06-05,EMP002,Priya Singh,Sales,Executive,Late,09:44,17:57,8.22
+2026-06-08,EMP002,Priya Singh,Sales,Executive,Present,09:03,17:48,8.75
+2026-06-09,EMP002,Priya Singh,Sales,Executive,WFH,09:24,17:48,8.4
+2026-06-10,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-06-11,EMP002,Priya Singh,Sales,Executive,Present,08:53,17:48,8.92
+2026-06-12,EMP002,Priya Singh,Sales,Executive,WFH,09:20,18:17,8.95
+2026-06-15,EMP002,Priya Singh,Sales,Executive,Late,09:38,18:17,8.65
+2026-06-16,EMP002,Priya Singh,Sales,Executive,Present,09:01,17:49,8.8
+2026-06-17,EMP002,Priya Singh,Sales,Executive,WFH,08:54,18:28,9.57
+2026-06-18,EMP002,Priya Singh,Sales,Executive,Present,09:15,17:52,8.62
+2026-06-19,EMP002,Priya Singh,Sales,Executive,WFH,09:05,18:22,9.28
+2026-06-22,EMP002,Priya Singh,Sales,Executive,WFH,08:52,18:24,9.53
+2026-06-23,EMP002,Priya Singh,Sales,Executive,Present,09:16,18:27,9.18
+2026-06-24,EMP002,Priya Singh,Sales,Executive,WFH,09:23,18:05,8.7
+2026-06-25,EMP002,Priya Singh,Sales,Executive,Present,09:03,18:27,9.4
+2026-06-26,EMP002,Priya Singh,Sales,Executive,Absent,,,0.0
+2026-06-29,EMP002,Priya Singh,Sales,Executive,Present,09:05,18:01,8.93
+2026-06-30,EMP002,Priya Singh,Sales,Executive,Present,08:58,18:27,9.48
+2026-04-01,EMP003,Rohan Verma,Sales,Senior Executive,Leave,,,0.0
+2026-04-02,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:19,18:05,8.77
+2026-04-03,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:50,18:14,9.4
+2026-04-06,EMP003,Rohan Verma,Sales,Senior Executive,WFH,08:56,17:49,8.88
+2026-04-07,EMP003,Rohan Verma,Sales,Senior Executive,Late,10:07,18:01,7.9
+2026-04-08,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:12,17:49,8.62
+2026-04-09,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:13,18:03,8.83
+2026-04-10,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:18,18:19,9.02
+2026-04-13,EMP003,Rohan Verma,Sales,Senior Executive,Absent,,,0.0
+2026-04-14,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:23,17:45,8.37
+2026-04-15,EMP003,Rohan Verma,Sales,Senior Executive,Leave,,,0.0
+2026-04-16,EMP003,Rohan Verma,Sales,Senior Executive,Late,09:41,17:53,8.2
+2026-04-17,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:57,17:51,8.9
+2026-04-20,EMP003,Rohan Verma,Sales,Senior Executive,Absent,,,0.0
+2026-04-21,EMP003,Rohan Verma,Sales,Senior Executive,Late,09:52,18:03,8.18
+2026-04-22,EMP003,Rohan Verma,Sales,Senior Executive,WFH,09:03,18:30,9.45
+2026-04-23,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:03,18:28,9.42
+2026-04-24,EMP003,Rohan Verma,Sales,Senior Executive,Leave,,,0.0
+2026-04-27,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:22,18:16,8.9
+2026-04-28,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:53,17:50,8.95
+2026-04-29,EMP003,Rohan Verma,Sales,Senior Executive,Leave,,,0.0
+2026-04-30,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:07,17:47,8.67
+2026-05-01,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:11,17:53,8.7
+2026-05-04,EMP003,Rohan Verma,Sales,Senior Executive,Leave,,,0.0
+2026-05-05,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:00,18:13,9.22
+2026-05-06,EMP003,Rohan Verma,Sales,Senior Executive,Late,10:10,17:45,7.58
+2026-05-07,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:54,18:29,9.58
+2026-05-08,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:24,17:47,8.38
+2026-05-11,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:25,17:54,8.48
+2026-05-12,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:58,17:47,8.82
+2026-05-13,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:13,17:47,8.57
+2026-05-14,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:03,18:28,9.42
+2026-05-15,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:56,18:07,9.18
+2026-05-18,EMP003,Rohan Verma,Sales,Senior Executive,Late,09:44,18:00,8.27
+2026-05-19,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:01,18:11,9.17
+2026-05-20,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:01,18:06,9.08
+2026-05-21,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:05,18:02,8.95
+2026-05-22,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:56,18:09,9.22
+2026-05-25,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:20,17:59,8.65
+2026-05-26,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:19,18:07,8.8
+2026-05-27,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:04,17:59,8.92
+2026-05-28,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:02,18:10,9.13
+2026-05-29,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:07,17:49,8.7
+2026-06-01,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:12,18:26,9.23
+2026-06-02,EMP003,Rohan Verma,Sales,Senior Executive,Late,10:09,18:06,7.95
+2026-06-03,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:57,18:01,9.07
+2026-06-04,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:06,17:47,8.68
+2026-06-05,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:17,18:07,8.83
+2026-06-08,EMP003,Rohan Verma,Sales,Senior Executive,Absent,,,0.0
+2026-06-09,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:17,18:23,9.1
+2026-06-10,EMP003,Rohan Verma,Sales,Senior Executive,Late,09:59,18:21,8.37
+2026-06-11,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:06,17:47,8.68
+2026-06-12,EMP003,Rohan Verma,Sales,Senior Executive,Absent,,,0.0
+2026-06-15,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:50,18:18,9.47
+2026-06-16,EMP003,Rohan Verma,Sales,Senior Executive,Late,09:58,18:12,8.23
+2026-06-17,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:11,18:24,9.22
+2026-06-18,EMP003,Rohan Verma,Sales,Senior Executive,Present,08:57,18:04,9.12
+2026-06-19,EMP003,Rohan Verma,Sales,Senior Executive,Late,10:01,18:05,8.07
+2026-06-22,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:08,18:20,9.2
+2026-06-23,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:02,18:11,9.15
+2026-06-24,EMP003,Rohan Verma,Sales,Senior Executive,Leave,,,0.0
+2026-06-25,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:01,18:24,9.38
+2026-06-26,EMP003,Rohan Verma,Sales,Senior Executive,WFH,09:09,18:10,9.02
+2026-06-29,EMP003,Rohan Verma,Sales,Senior Executive,Late,09:54,18:03,8.15
+2026-06-30,EMP003,Rohan Verma,Sales,Senior Executive,Present,09:17,18:22,9.08
+2026-04-01,EMP004,Neha Gupta,Sales,Executive,WFH,09:10,18:14,9.07
+2026-04-02,EMP004,Neha Gupta,Sales,Executive,Present,09:18,18:28,9.17
+2026-04-03,EMP004,Neha Gupta,Sales,Executive,Present,09:22,18:15,8.88
+2026-04-06,EMP004,Neha Gupta,Sales,Executive,Absent,,,0.0
+2026-04-07,EMP004,Neha Gupta,Sales,Executive,Present,08:55,18:03,9.13
+2026-04-08,EMP004,Neha Gupta,Sales,Executive,Late,09:40,18:00,8.33
+2026-04-09,EMP004,Neha Gupta,Sales,Executive,Leave,,,0.0
+2026-04-10,EMP004,Neha Gupta,Sales,Executive,Present,09:04,17:57,8.88
+2026-04-13,EMP004,Neha Gupta,Sales,Executive,Present,08:51,17:47,8.93
+2026-04-14,EMP004,Neha Gupta,Sales,Executive,Present,09:20,18:24,9.07
+2026-04-15,EMP004,Neha Gupta,Sales,Executive,Present,09:19,18:11,8.87
+2026-04-16,EMP004,Neha Gupta,Sales,Executive,Leave,,,0.0
+2026-04-17,EMP004,Neha Gupta,Sales,Executive,WFH,09:02,18:30,9.47
+2026-04-20,EMP004,Neha Gupta,Sales,Executive,Absent,,,0.0
+2026-04-21,EMP004,Neha Gupta,Sales,Executive,Present,09:21,18:10,8.82
+2026-04-22,EMP004,Neha Gupta,Sales,Executive,Present,08:59,18:26,9.45
+2026-04-23,EMP004,Neha Gupta,Sales,Executive,Absent,,,0.0
+2026-04-24,EMP004,Neha Gupta,Sales,Executive,Present,08:56,18:12,9.27
+2026-04-27,EMP004,Neha Gupta,Sales,Executive,Present,09:01,18:29,9.47
+2026-04-28,EMP004,Neha Gupta,Sales,Executive,Late,09:38,18:20,8.7
+2026-04-29,EMP004,Neha Gupta,Sales,Executive,Present,08:57,18:14,9.28
+2026-04-30,EMP004,Neha Gupta,Sales,Executive,Present,09:19,18:27,9.13
+2026-05-01,EMP004,Neha Gupta,Sales,Executive,Late,09:55,18:13,8.3
+2026-05-04,EMP004,Neha Gupta,Sales,Executive,WFH,09:22,18:12,8.83
+2026-05-05,EMP004,Neha Gupta,Sales,Executive,Late,09:45,18:15,8.5
+2026-05-06,EMP004,Neha Gupta,Sales,Executive,Present,09:06,18:00,8.9
+2026-05-07,EMP004,Neha Gupta,Sales,Executive,Leave,,,0.0
+2026-05-08,EMP004,Neha Gupta,Sales,Executive,Present,09:23,18:16,8.88
+2026-05-11,EMP004,Neha Gupta,Sales,Executive,Leave,,,0.0
+2026-05-12,EMP004,Neha Gupta,Sales,Executive,Present,09:07,18:13,9.1
+2026-05-13,EMP004,Neha Gupta,Sales,Executive,Present,09:08,18:00,8.87
+2026-05-14,EMP004,Neha Gupta,Sales,Executive,Present,09:11,18:05,8.9
+2026-05-15,EMP004,Neha Gupta,Sales,Executive,Late,09:43,17:54,8.18
+2026-05-18,EMP004,Neha Gupta,Sales,Executive,Present,09:14,18:29,9.25
+2026-05-19,EMP004,Neha Gupta,Sales,Executive,Present,09:03,17:49,8.77
+2026-05-20,EMP004,Neha Gupta,Sales,Executive,Present,09:16,18:06,8.83
+2026-05-21,EMP004,Neha Gupta,Sales,Executive,Late,10:01,17:48,7.78
+2026-05-22,EMP004,Neha Gupta,Sales,Executive,Present,09:16,18:09,8.88
+2026-05-25,EMP004,Neha Gupta,Sales,Executive,WFH,08:51,18:21,9.5
+2026-05-26,EMP004,Neha Gupta,Sales,Executive,Present,09:20,17:45,8.42
+2026-05-27,EMP004,Neha Gupta,Sales,Executive,Present,09:09,18:09,9.0
+2026-05-28,EMP004,Neha Gupta,Sales,Executive,Present,09:24,18:19,8.92
+2026-05-29,EMP004,Neha Gupta,Sales,Executive,WFH,09:04,18:16,9.2
+2026-06-01,EMP004,Neha Gupta,Sales,Executive,Present,09:07,18:12,9.08
+2026-06-02,EMP004,Neha Gupta,Sales,Executive,Present,08:51,18:09,9.3
+2026-06-03,EMP004,Neha Gupta,Sales,Executive,Present,09:15,17:55,8.67
+2026-06-04,EMP004,Neha Gupta,Sales,Executive,Present,08:58,18:24,9.43
+2026-06-05,EMP004,Neha Gupta,Sales,Executive,Late,10:00,18:22,8.37
+2026-06-08,EMP004,Neha Gupta,Sales,Executive,WFH,08:51,17:50,8.98
+2026-06-09,EMP004,Neha Gupta,Sales,Executive,Leave,,,0.0
+2026-06-10,EMP004,Neha Gupta,Sales,Executive,Present,08:58,18:14,9.27
+2026-06-11,EMP004,Neha Gupta,Sales,Executive,Present,08:53,18:01,9.13
+2026-06-12,EMP004,Neha Gupta,Sales,Executive,Present,09:10,17:58,8.8
+2026-06-15,EMP004,Neha Gupta,Sales,Executive,Present,09:10,18:06,8.93
+2026-06-16,EMP004,Neha Gupta,Sales,Executive,Present,09:07,18:11,9.07
+2026-06-17,EMP004,Neha Gupta,Sales,Executive,Present,08:55,18:15,9.33
+2026-06-18,EMP004,Neha Gupta,Sales,Executive,Present,09:24,17:48,8.4
+2026-06-19,EMP004,Neha Gupta,Sales,Executive,Present,09:04,18:26,9.37
+2026-06-22,EMP004,Neha Gupta,Sales,Executive,Present,08:52,17:46,8.9
+2026-06-23,EMP004,Neha Gupta,Sales,Executive,Present,09:02,17:46,8.73
+2026-06-24,EMP004,Neha Gupta,Sales,Executive,WFH,08:59,18:00,9.02
+2026-06-25,EMP004,Neha Gupta,Sales,Executive,Present,09:20,18:27,9.12
+2026-06-26,EMP004,Neha Gupta,Sales,Executive,Present,09:03,18:14,9.18
+2026-06-29,EMP004,Neha Gupta,Sales,Executive,Absent,,,0.0
+2026-06-30,EMP004,Neha Gupta,Sales,Executive,Present,09:13,17:55,8.7
+2026-04-01,EMP005,Aditya Mishra,Sales,Team Lead,WFH,08:57,17:55,8.97
+2026-04-02,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:51,18:04,9.22
+2026-04-03,EMP005,Aditya Mishra,Sales,Team Lead,WFH,09:14,18:10,8.93
+2026-04-06,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:05,17:51,8.77
+2026-04-07,EMP005,Aditya Mishra,Sales,Team Lead,Absent,,,0.0
+2026-04-08,EMP005,Aditya Mishra,Sales,Team Lead,Leave,,,0.0
+2026-04-09,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:52,18:07,9.25
+2026-04-10,EMP005,Aditya Mishra,Sales,Team Lead,Late,09:39,18:17,8.63
+2026-04-13,EMP005,Aditya Mishra,Sales,Team Lead,Leave,,,0.0
+2026-04-14,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:56,18:12,9.27
+2026-04-15,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:19,18:30,9.18
+2026-04-16,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:23,18:26,9.05
+2026-04-17,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:24,18:15,8.85
+2026-04-20,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:07,18:05,8.97
+2026-04-21,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:55,18:02,9.12
+2026-04-22,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:19,18:21,9.03
+2026-04-23,EMP005,Aditya Mishra,Sales,Team Lead,WFH,09:11,17:46,8.58
+2026-04-24,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:01,18:16,9.25
+2026-04-27,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:06,18:06,9.0
+2026-04-28,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:07,18:20,9.22
+2026-04-29,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:02,17:50,8.8
+2026-04-30,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:21,18:20,8.98
+2026-05-01,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:21,18:13,8.87
+2026-05-04,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:04,18:10,9.1
+2026-05-05,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:13,18:15,9.03
+2026-05-06,EMP005,Aditya Mishra,Sales,Team Lead,Late,10:10,18:06,7.93
+2026-05-07,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:07,18:04,8.95
+2026-05-08,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:02,18:05,9.05
+2026-05-11,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:01,17:57,8.93
+2026-05-12,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:07,18:22,9.25
+2026-05-13,EMP005,Aditya Mishra,Sales,Team Lead,Late,09:47,18:03,8.27
+2026-05-14,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:09,17:45,8.6
+2026-05-15,EMP005,Aditya Mishra,Sales,Team Lead,Absent,,,0.0
+2026-05-18,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:53,18:20,9.45
+2026-05-19,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:58,18:25,9.45
+2026-05-20,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:50,18:21,9.52
+2026-05-21,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:18,18:06,8.8
+2026-05-22,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:06,18:15,9.15
+2026-05-25,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:15,18:16,9.02
+2026-05-26,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:53,17:54,9.02
+2026-05-27,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:09,17:50,8.68
+2026-05-28,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:16,18:23,9.12
+2026-05-29,EMP005,Aditya Mishra,Sales,Team Lead,WFH,09:04,18:18,9.23
+2026-06-01,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:18,18:04,8.77
+2026-06-02,EMP005,Aditya Mishra,Sales,Team Lead,WFH,09:09,18:21,9.2
+2026-06-03,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:56,17:58,9.03
+2026-06-04,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:55,17:55,9.0
+2026-06-05,EMP005,Aditya Mishra,Sales,Team Lead,Present,08:54,17:55,9.02
+2026-06-08,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:20,18:03,8.72
+2026-06-09,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:08,18:29,9.35
+2026-06-10,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:04,18:01,8.95
+2026-06-11,EMP005,Aditya Mishra,Sales,Team Lead,Leave,,,0.0
+2026-06-12,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:24,17:59,8.58
+2026-06-15,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:07,17:54,8.78
+2026-06-16,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:09,18:23,9.23
+2026-06-17,EMP005,Aditya Mishra,Sales,Team Lead,Absent,,,0.0
+2026-06-18,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:19,18:29,9.17
+2026-06-19,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:07,18:17,9.17
+2026-06-22,EMP005,Aditya Mishra,Sales,Team Lead,Late,09:37,18:12,8.58
+2026-06-23,EMP005,Aditya Mishra,Sales,Team Lead,Absent,,,0.0
+2026-06-24,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:04,18:28,9.4
+2026-06-25,EMP005,Aditya Mishra,Sales,Team Lead,WFH,08:51,18:28,9.62
+2026-06-26,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:01,18:15,9.23
+2026-06-29,EMP005,Aditya Mishra,Sales,Team Lead,Late,09:46,18:22,8.6
+2026-06-30,EMP005,Aditya Mishra,Sales,Team Lead,Present,09:21,17:50,8.48
+2026-04-01,EMP006,Kavya Patel,HR,Executive,Present,09:12,18:11,8.98
+2026-04-02,EMP006,Kavya Patel,HR,Executive,Present,09:10,18:27,9.28
+2026-04-03,EMP006,Kavya Patel,HR,Executive,Present,09:00,18:06,9.1
+2026-04-06,EMP006,Kavya Patel,HR,Executive,Present,09:21,18:03,8.7
+2026-04-07,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-04-08,EMP006,Kavya Patel,HR,Executive,Present,09:25,17:47,8.37
+2026-04-09,EMP006,Kavya Patel,HR,Executive,Present,08:55,18:05,9.17
+2026-04-10,EMP006,Kavya Patel,HR,Executive,Present,09:10,17:52,8.7
+2026-04-13,EMP006,Kavya Patel,HR,Executive,Present,09:22,17:45,8.38
+2026-04-14,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-04-15,EMP006,Kavya Patel,HR,Executive,Late,10:01,17:48,7.78
+2026-04-16,EMP006,Kavya Patel,HR,Executive,Present,09:23,18:08,8.75
+2026-04-17,EMP006,Kavya Patel,HR,Executive,WFH,09:21,18:25,9.07
+2026-04-20,EMP006,Kavya Patel,HR,Executive,Present,08:53,17:58,9.08
+2026-04-21,EMP006,Kavya Patel,HR,Executive,Present,09:25,17:53,8.47
+2026-04-22,EMP006,Kavya Patel,HR,Executive,Present,09:18,18:29,9.18
+2026-04-23,EMP006,Kavya Patel,HR,Executive,Present,08:57,17:46,8.82
+2026-04-24,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-04-27,EMP006,Kavya Patel,HR,Executive,WFH,09:05,18:30,9.42
+2026-04-28,EMP006,Kavya Patel,HR,Executive,Present,09:09,18:20,9.18
+2026-04-29,EMP006,Kavya Patel,HR,Executive,Present,09:25,18:11,8.77
+2026-04-30,EMP006,Kavya Patel,HR,Executive,Present,09:04,17:52,8.8
+2026-05-01,EMP006,Kavya Patel,HR,Executive,Present,08:57,18:26,9.48
+2026-05-04,EMP006,Kavya Patel,HR,Executive,Present,09:21,18:30,9.15
+2026-05-05,EMP006,Kavya Patel,HR,Executive,Present,09:22,18:30,9.13
+2026-05-06,EMP006,Kavya Patel,HR,Executive,Present,09:16,18:15,8.98
+2026-05-07,EMP006,Kavya Patel,HR,Executive,Present,09:05,18:14,9.15
+2026-05-08,EMP006,Kavya Patel,HR,Executive,Late,09:59,17:57,7.97
+2026-05-11,EMP006,Kavya Patel,HR,Executive,WFH,09:22,17:53,8.52
+2026-05-12,EMP006,Kavya Patel,HR,Executive,Present,09:07,18:11,9.07
+2026-05-13,EMP006,Kavya Patel,HR,Executive,Present,09:22,18:02,8.67
+2026-05-14,EMP006,Kavya Patel,HR,Executive,Present,09:08,18:04,8.93
+2026-05-15,EMP006,Kavya Patel,HR,Executive,WFH,09:21,17:54,8.55
+2026-05-18,EMP006,Kavya Patel,HR,Executive,Present,09:24,18:15,8.85
+2026-05-19,EMP006,Kavya Patel,HR,Executive,Present,09:11,18:20,9.15
+2026-05-20,EMP006,Kavya Patel,HR,Executive,Late,10:04,18:05,8.02
+2026-05-21,EMP006,Kavya Patel,HR,Executive,Present,09:05,18:21,9.27
+2026-05-22,EMP006,Kavya Patel,HR,Executive,Present,09:04,18:11,9.12
+2026-05-25,EMP006,Kavya Patel,HR,Executive,Present,09:10,18:15,9.08
+2026-05-26,EMP006,Kavya Patel,HR,Executive,Absent,,,0.0
+2026-05-27,EMP006,Kavya Patel,HR,Executive,Present,09:14,18:27,9.22
+2026-05-28,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-05-29,EMP006,Kavya Patel,HR,Executive,Present,09:21,17:47,8.43
+2026-06-01,EMP006,Kavya Patel,HR,Executive,Present,09:22,18:22,9.0
+2026-06-02,EMP006,Kavya Patel,HR,Executive,Present,08:56,18:13,9.28
+2026-06-03,EMP006,Kavya Patel,HR,Executive,Present,09:23,18:14,8.85
+2026-06-04,EMP006,Kavya Patel,HR,Executive,Present,08:59,18:11,9.2
+2026-06-05,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-06-08,EMP006,Kavya Patel,HR,Executive,Present,08:54,18:15,9.35
+2026-06-09,EMP006,Kavya Patel,HR,Executive,Present,09:11,18:24,9.22
+2026-06-10,EMP006,Kavya Patel,HR,Executive,Absent,,,0.0
+2026-06-11,EMP006,Kavya Patel,HR,Executive,Present,08:55,18:06,9.18
+2026-06-12,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-06-15,EMP006,Kavya Patel,HR,Executive,Late,09:55,18:25,8.5
+2026-06-16,EMP006,Kavya Patel,HR,Executive,Absent,,,0.0
+2026-06-17,EMP006,Kavya Patel,HR,Executive,Present,09:24,17:47,8.38
+2026-06-18,EMP006,Kavya Patel,HR,Executive,WFH,08:54,18:00,9.1
+2026-06-19,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-06-22,EMP006,Kavya Patel,HR,Executive,Leave,,,0.0
+2026-06-23,EMP006,Kavya Patel,HR,Executive,Present,09:04,17:50,8.77
+2026-06-24,EMP006,Kavya Patel,HR,Executive,Present,08:56,18:25,9.48
+2026-06-25,EMP006,Kavya Patel,HR,Executive,Absent,,,0.0
+2026-06-26,EMP006,Kavya Patel,HR,Executive,Present,09:18,17:55,8.62
+2026-06-29,EMP006,Kavya Patel,HR,Executive,Absent,,,0.0
+2026-06-30,EMP006,Kavya Patel,HR,Executive,Present,08:51,17:47,8.93
+2026-04-01,EMP007,Rahul Yadav,HR,Executive,Present,08:53,18:03,9.17
+2026-04-02,EMP007,Rahul Yadav,HR,Executive,Present,09:13,18:12,8.98
+2026-04-03,EMP007,Rahul Yadav,HR,Executive,Present,09:05,18:18,9.22
+2026-04-06,EMP007,Rahul Yadav,HR,Executive,Present,09:01,17:55,8.9
+2026-04-07,EMP007,Rahul Yadav,HR,Executive,Present,08:55,18:24,9.48
+2026-04-08,EMP007,Rahul Yadav,HR,Executive,Present,09:05,18:16,9.18
+2026-04-09,EMP007,Rahul Yadav,HR,Executive,WFH,08:59,17:59,9.0
+2026-04-10,EMP007,Rahul Yadav,HR,Executive,Present,09:06,18:14,9.13
+2026-04-13,EMP007,Rahul Yadav,HR,Executive,Present,08:50,18:14,9.4
+2026-04-14,EMP007,Rahul Yadav,HR,Executive,Present,09:24,17:55,8.52
+2026-04-15,EMP007,Rahul Yadav,HR,Executive,Present,09:18,18:07,8.82
+2026-04-16,EMP007,Rahul Yadav,HR,Executive,WFH,09:09,18:25,9.27
+2026-04-17,EMP007,Rahul Yadav,HR,Executive,Present,09:06,18:14,9.13
+2026-04-20,EMP007,Rahul Yadav,HR,Executive,Present,09:02,18:09,9.12
+2026-04-21,EMP007,Rahul Yadav,HR,Executive,Present,08:56,18:00,9.07
+2026-04-22,EMP007,Rahul Yadav,HR,Executive,Present,09:12,18:21,9.15
+2026-04-23,EMP007,Rahul Yadav,HR,Executive,Present,09:08,17:46,8.63
+2026-04-24,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-04-27,EMP007,Rahul Yadav,HR,Executive,Present,09:07,17:45,8.63
+2026-04-28,EMP007,Rahul Yadav,HR,Executive,WFH,08:53,18:23,9.5
+2026-04-29,EMP007,Rahul Yadav,HR,Executive,Absent,,,0.0
+2026-04-30,EMP007,Rahul Yadav,HR,Executive,Present,09:08,17:59,8.85
+2026-05-01,EMP007,Rahul Yadav,HR,Executive,WFH,09:12,17:59,8.78
+2026-05-04,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-05-05,EMP007,Rahul Yadav,HR,Executive,Present,09:06,18:28,9.37
+2026-05-06,EMP007,Rahul Yadav,HR,Executive,Absent,,,0.0
+2026-05-07,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-05-08,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-05-11,EMP007,Rahul Yadav,HR,Executive,Present,08:56,18:25,9.48
+2026-05-12,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-05-13,EMP007,Rahul Yadav,HR,Executive,Present,09:09,18:13,9.07
+2026-05-14,EMP007,Rahul Yadav,HR,Executive,Present,09:13,17:53,8.67
+2026-05-15,EMP007,Rahul Yadav,HR,Executive,Present,09:08,18:05,8.95
+2026-05-18,EMP007,Rahul Yadav,HR,Executive,Absent,,,0.0
+2026-05-19,EMP007,Rahul Yadav,HR,Executive,Present,09:01,17:57,8.93
+2026-05-20,EMP007,Rahul Yadav,HR,Executive,Present,09:24,18:08,8.73
+2026-05-21,EMP007,Rahul Yadav,HR,Executive,Late,09:52,17:55,8.05
+2026-05-22,EMP007,Rahul Yadav,HR,Executive,Present,09:20,18:03,8.72
+2026-05-25,EMP007,Rahul Yadav,HR,Executive,Absent,,,0.0
+2026-05-26,EMP007,Rahul Yadav,HR,Executive,Present,08:57,18:14,9.28
+2026-05-27,EMP007,Rahul Yadav,HR,Executive,Present,08:59,17:59,9.0
+2026-05-28,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-05-29,EMP007,Rahul Yadav,HR,Executive,Absent,,,0.0
+2026-06-01,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-06-02,EMP007,Rahul Yadav,HR,Executive,Present,09:25,18:08,8.72
+2026-06-03,EMP007,Rahul Yadav,HR,Executive,Present,09:15,17:45,8.5
+2026-06-04,EMP007,Rahul Yadav,HR,Executive,Present,09:24,17:52,8.47
+2026-06-05,EMP007,Rahul Yadav,HR,Executive,Present,09:13,18:28,9.25
+2026-06-08,EMP007,Rahul Yadav,HR,Executive,Absent,,,0.0
+2026-06-09,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-06-10,EMP007,Rahul Yadav,HR,Executive,Present,09:14,18:25,9.18
+2026-06-11,EMP007,Rahul Yadav,HR,Executive,Present,08:56,18:28,9.53
+2026-06-12,EMP007,Rahul Yadav,HR,Executive,Present,09:20,17:46,8.43
+2026-06-15,EMP007,Rahul Yadav,HR,Executive,WFH,09:25,18:05,8.67
+2026-06-16,EMP007,Rahul Yadav,HR,Executive,WFH,09:04,18:26,9.37
+2026-06-17,EMP007,Rahul Yadav,HR,Executive,Present,09:19,18:29,9.17
+2026-06-18,EMP007,Rahul Yadav,HR,Executive,Present,09:16,17:52,8.6
+2026-06-19,EMP007,Rahul Yadav,HR,Executive,Present,08:52,17:47,8.92
+2026-06-22,EMP007,Rahul Yadav,HR,Executive,Present,09:21,17:52,8.52
+2026-06-23,EMP007,Rahul Yadav,HR,Executive,Present,09:05,18:19,9.23
+2026-06-24,EMP007,Rahul Yadav,HR,Executive,Present,09:14,18:14,9.0
+2026-06-25,EMP007,Rahul Yadav,HR,Executive,Present,09:24,18:11,8.78
+2026-06-26,EMP007,Rahul Yadav,HR,Executive,WFH,08:59,18:11,9.2
+2026-06-29,EMP007,Rahul Yadav,HR,Executive,Leave,,,0.0
+2026-06-30,EMP007,Rahul Yadav,HR,Executive,Present,09:21,18:24,9.05
+2026-04-01,EMP008,Ananya Jain,HR,HR Manager,Present,09:07,17:47,8.67
+2026-04-02,EMP008,Ananya Jain,HR,HR Manager,Absent,,,0.0
+2026-04-03,EMP008,Ananya Jain,HR,HR Manager,Present,09:03,18:13,9.17
+2026-04-06,EMP008,Ananya Jain,HR,HR Manager,Present,09:05,18:08,9.05
+2026-04-07,EMP008,Ananya Jain,HR,HR Manager,Present,09:13,18:19,9.1
+2026-04-08,EMP008,Ananya Jain,HR,HR Manager,Leave,,,0.0
+2026-04-09,EMP008,Ananya Jain,HR,HR Manager,Present,08:53,18:10,9.28
+2026-04-10,EMP008,Ananya Jain,HR,HR Manager,Present,09:02,17:52,8.83
+2026-04-13,EMP008,Ananya Jain,HR,HR Manager,Present,08:55,18:27,9.53
+2026-04-14,EMP008,Ananya Jain,HR,HR Manager,Present,08:51,17:48,8.95
+2026-04-15,EMP008,Ananya Jain,HR,HR Manager,Present,09:05,17:53,8.8
+2026-04-16,EMP008,Ananya Jain,HR,HR Manager,WFH,09:03,17:49,8.77
+2026-04-17,EMP008,Ananya Jain,HR,HR Manager,Late,09:48,17:59,8.18
+2026-04-20,EMP008,Ananya Jain,HR,HR Manager,Present,08:59,18:23,9.4
+2026-04-21,EMP008,Ananya Jain,HR,HR Manager,Present,09:07,17:54,8.78
+2026-04-22,EMP008,Ananya Jain,HR,HR Manager,Present,09:24,18:01,8.62
+2026-04-23,EMP008,Ananya Jain,HR,HR Manager,Present,08:57,18:27,9.5
+2026-04-24,EMP008,Ananya Jain,HR,HR Manager,Present,08:58,17:45,8.78
+2026-04-27,EMP008,Ananya Jain,HR,HR Manager,Present,09:05,18:22,9.28
+2026-04-28,EMP008,Ananya Jain,HR,HR Manager,Present,08:51,17:56,9.08
+2026-04-29,EMP008,Ananya Jain,HR,HR Manager,Present,08:53,17:53,9.0
+2026-04-30,EMP008,Ananya Jain,HR,HR Manager,Absent,,,0.0
+2026-05-01,EMP008,Ananya Jain,HR,HR Manager,Present,09:23,17:52,8.48
+2026-05-04,EMP008,Ananya Jain,HR,HR Manager,Absent,,,0.0
+2026-05-05,EMP008,Ananya Jain,HR,HR Manager,Present,09:20,18:13,8.88
+2026-05-06,EMP008,Ananya Jain,HR,HR Manager,Present,09:22,18:22,9.0
+2026-05-07,EMP008,Ananya Jain,HR,HR Manager,Present,09:18,18:17,8.98
+2026-05-08,EMP008,Ananya Jain,HR,HR Manager,Present,08:52,18:27,9.58
+2026-05-11,EMP008,Ananya Jain,HR,HR Manager,Late,10:04,18:26,8.37
+2026-05-12,EMP008,Ananya Jain,HR,HR Manager,Present,08:53,18:15,9.37
+2026-05-13,EMP008,Ananya Jain,HR,HR Manager,Present,09:17,18:28,9.18
+2026-05-14,EMP008,Ananya Jain,HR,HR Manager,Present,09:21,18:30,9.15
+2026-05-15,EMP008,Ananya Jain,HR,HR Manager,Present,08:54,17:50,8.93
+2026-05-18,EMP008,Ananya Jain,HR,HR Manager,Present,08:59,17:49,8.83
+2026-05-19,EMP008,Ananya Jain,HR,HR Manager,Present,09:07,18:24,9.28
+2026-05-20,EMP008,Ananya Jain,HR,HR Manager,Leave,,,0.0
+2026-05-21,EMP008,Ananya Jain,HR,HR Manager,WFH,09:25,18:30,9.08
+2026-05-22,EMP008,Ananya Jain,HR,HR Manager,Present,09:14,18:23,9.15
+2026-05-25,EMP008,Ananya Jain,HR,HR Manager,Late,10:04,18:17,8.22
+2026-05-26,EMP008,Ananya Jain,HR,HR Manager,WFH,09:17,17:51,8.57
+2026-05-27,EMP008,Ananya Jain,HR,HR Manager,Absent,,,0.0
+2026-05-28,EMP008,Ananya Jain,HR,HR Manager,Present,09:25,17:58,8.55
+2026-05-29,EMP008,Ananya Jain,HR,HR Manager,Present,09:18,17:59,8.68
+2026-06-01,EMP008,Ananya Jain,HR,HR Manager,Present,09:11,18:14,9.05
+2026-06-02,EMP008,Ananya Jain,HR,HR Manager,Present,09:16,17:51,8.58
+2026-06-03,EMP008,Ananya Jain,HR,HR Manager,Present,09:17,18:05,8.8
+2026-06-04,EMP008,Ananya Jain,HR,HR Manager,Leave,,,0.0
+2026-06-05,EMP008,Ananya Jain,HR,HR Manager,Present,09:13,17:54,8.68
+2026-06-08,EMP008,Ananya Jain,HR,HR Manager,Leave,,,0.0
+2026-06-09,EMP008,Ananya Jain,HR,HR Manager,Present,08:54,17:50,8.93
+2026-06-10,EMP008,Ananya Jain,HR,HR Manager,Present,08:55,18:12,9.28
+2026-06-11,EMP008,Ananya Jain,HR,HR Manager,Present,09:13,17:53,8.67
+2026-06-12,EMP008,Ananya Jain,HR,HR Manager,Late,10:10,18:20,8.17
+2026-06-15,EMP008,Ananya Jain,HR,HR Manager,Present,08:57,18:11,9.23
+2026-06-16,EMP008,Ananya Jain,HR,HR Manager,Present,09:17,17:48,8.52
+2026-06-17,EMP008,Ananya Jain,HR,HR Manager,Present,09:09,18:07,8.97
+2026-06-18,EMP008,Ananya Jain,HR,HR Manager,Present,09:22,17:58,8.6
+2026-06-19,EMP008,Ananya Jain,HR,HR Manager,Present,09:20,17:59,8.65
+2026-06-22,EMP008,Ananya Jain,HR,HR Manager,Present,09:12,18:20,9.13
+2026-06-23,EMP008,Ananya Jain,HR,HR Manager,Present,08:57,18:02,9.08
+2026-06-24,EMP008,Ananya Jain,HR,HR Manager,WFH,09:04,18:12,9.13
+2026-06-25,EMP008,Ananya Jain,HR,HR Manager,Late,09:36,18:23,8.78
+2026-06-26,EMP008,Ananya Jain,HR,HR Manager,Leave,,,0.0
+2026-06-29,EMP008,Ananya Jain,HR,HR Manager,Absent,,,0.0
+2026-06-30,EMP008,Ananya Jain,HR,HR Manager,Present,08:51,17:56,9.08
+2026-04-01,EMP009,Vivek Kumar,Finance,Executive,Present,09:09,18:06,8.95
+2026-04-02,EMP009,Vivek Kumar,Finance,Executive,Present,08:50,17:56,9.1
+2026-04-03,EMP009,Vivek Kumar,Finance,Executive,Present,09:15,17:49,8.57
+2026-04-06,EMP009,Vivek Kumar,Finance,Executive,Present,08:51,17:50,8.98
+2026-04-07,EMP009,Vivek Kumar,Finance,Executive,Absent,,,0.0
+2026-04-08,EMP009,Vivek Kumar,Finance,Executive,Late,09:59,18:11,8.2
+2026-04-09,EMP009,Vivek Kumar,Finance,Executive,Present,09:11,17:55,8.73
+2026-04-10,EMP009,Vivek Kumar,Finance,Executive,Present,09:09,18:05,8.93
+2026-04-13,EMP009,Vivek Kumar,Finance,Executive,WFH,08:55,17:48,8.88
+2026-04-14,EMP009,Vivek Kumar,Finance,Executive,Present,09:00,18:24,9.4
+2026-04-15,EMP009,Vivek Kumar,Finance,Executive,Present,08:55,18:02,9.12
+2026-04-16,EMP009,Vivek Kumar,Finance,Executive,Present,09:17,18:16,8.98
+2026-04-17,EMP009,Vivek Kumar,Finance,Executive,WFH,09:18,18:11,8.88
+2026-04-20,EMP009,Vivek Kumar,Finance,Executive,Present,09:03,18:17,9.23
+2026-04-21,EMP009,Vivek Kumar,Finance,Executive,Present,09:12,18:12,9.0
+2026-04-22,EMP009,Vivek Kumar,Finance,Executive,Present,09:08,18:28,9.33
+2026-04-23,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-04-24,EMP009,Vivek Kumar,Finance,Executive,WFH,09:21,18:18,8.95
+2026-04-27,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-04-28,EMP009,Vivek Kumar,Finance,Executive,Present,08:52,17:59,9.12
+2026-04-29,EMP009,Vivek Kumar,Finance,Executive,Present,08:53,17:45,8.87
+2026-04-30,EMP009,Vivek Kumar,Finance,Executive,Present,09:09,17:58,8.82
+2026-05-01,EMP009,Vivek Kumar,Finance,Executive,Present,09:06,18:03,8.95
+2026-05-04,EMP009,Vivek Kumar,Finance,Executive,Present,08:57,17:45,8.8
+2026-05-05,EMP009,Vivek Kumar,Finance,Executive,Present,09:17,17:56,8.65
+2026-05-06,EMP009,Vivek Kumar,Finance,Executive,Present,09:14,18:19,9.08
+2026-05-07,EMP009,Vivek Kumar,Finance,Executive,Absent,,,0.0
+2026-05-08,EMP009,Vivek Kumar,Finance,Executive,Present,09:22,18:20,8.97
+2026-05-11,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-05-12,EMP009,Vivek Kumar,Finance,Executive,Present,08:54,18:10,9.27
+2026-05-13,EMP009,Vivek Kumar,Finance,Executive,Absent,,,0.0
+2026-05-14,EMP009,Vivek Kumar,Finance,Executive,Present,09:17,17:46,8.48
+2026-05-15,EMP009,Vivek Kumar,Finance,Executive,Present,08:54,18:05,9.18
+2026-05-18,EMP009,Vivek Kumar,Finance,Executive,WFH,09:17,18:21,9.07
+2026-05-19,EMP009,Vivek Kumar,Finance,Executive,Present,09:16,18:03,8.78
+2026-05-20,EMP009,Vivek Kumar,Finance,Executive,Present,09:15,17:46,8.52
+2026-05-21,EMP009,Vivek Kumar,Finance,Executive,Present,09:00,18:24,9.4
+2026-05-22,EMP009,Vivek Kumar,Finance,Executive,Present,09:13,17:50,8.62
+2026-05-25,EMP009,Vivek Kumar,Finance,Executive,Present,08:56,18:00,9.07
+2026-05-26,EMP009,Vivek Kumar,Finance,Executive,Present,09:15,18:18,9.05
+2026-05-27,EMP009,Vivek Kumar,Finance,Executive,Present,09:15,18:04,8.82
+2026-05-28,EMP009,Vivek Kumar,Finance,Executive,Absent,,,0.0
+2026-05-29,EMP009,Vivek Kumar,Finance,Executive,Present,09:04,18:06,9.03
+2026-06-01,EMP009,Vivek Kumar,Finance,Executive,Present,08:54,18:17,9.38
+2026-06-02,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-06-03,EMP009,Vivek Kumar,Finance,Executive,Present,09:23,18:17,8.9
+2026-06-04,EMP009,Vivek Kumar,Finance,Executive,Present,09:12,18:07,8.92
+2026-06-05,EMP009,Vivek Kumar,Finance,Executive,Absent,,,0.0
+2026-06-08,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-06-09,EMP009,Vivek Kumar,Finance,Executive,Present,09:05,17:51,8.77
+2026-06-10,EMP009,Vivek Kumar,Finance,Executive,Present,09:06,17:57,8.85
+2026-06-11,EMP009,Vivek Kumar,Finance,Executive,Present,08:59,18:26,9.45
+2026-06-12,EMP009,Vivek Kumar,Finance,Executive,Present,09:01,18:25,9.4
+2026-06-15,EMP009,Vivek Kumar,Finance,Executive,Present,09:19,18:21,9.03
+2026-06-16,EMP009,Vivek Kumar,Finance,Executive,WFH,09:18,18:28,9.17
+2026-06-17,EMP009,Vivek Kumar,Finance,Executive,WFH,09:10,18:25,9.25
+2026-06-18,EMP009,Vivek Kumar,Finance,Executive,Present,08:59,18:13,9.23
+2026-06-19,EMP009,Vivek Kumar,Finance,Executive,Present,09:20,18:13,8.88
+2026-06-22,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-06-23,EMP009,Vivek Kumar,Finance,Executive,Present,09:07,18:22,9.25
+2026-06-24,EMP009,Vivek Kumar,Finance,Executive,Present,09:12,18:17,9.08
+2026-06-25,EMP009,Vivek Kumar,Finance,Executive,Present,09:09,18:14,9.08
+2026-06-26,EMP009,Vivek Kumar,Finance,Executive,Present,08:52,17:48,8.93
+2026-06-29,EMP009,Vivek Kumar,Finance,Executive,Present,09:08,17:49,8.68
+2026-06-30,EMP009,Vivek Kumar,Finance,Executive,Leave,,,0.0
+2026-04-01,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:22,18:09,8.78
+2026-04-02,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:25,17:47,8.37
+2026-04-03,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:02,18:05,9.05
+2026-04-06,EMP010,Sneha Agarwal,Finance,Senior Executive,WFH,09:20,18:17,8.95
+2026-04-07,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:53,18:13,9.33
+2026-04-08,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:11,18:30,9.32
+2026-04-09,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:22,18:26,9.07
+2026-04-10,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:52,18:00,9.13
+2026-04-13,EMP010,Sneha Agarwal,Finance,Senior Executive,Absent,,,0.0
+2026-04-14,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:18,18:18,9.0
+2026-04-15,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,09:58,18:08,8.17
+2026-04-16,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:14,18:11,8.95
+2026-04-17,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:53,18:25,9.53
+2026-04-20,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-04-21,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:54,18:06,9.2
+2026-04-22,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:25,18:28,9.05
+2026-04-23,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:08,18:01,8.88
+2026-04-24,EMP010,Sneha Agarwal,Finance,Senior Executive,Absent,,,0.0
+2026-04-27,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-04-28,EMP010,Sneha Agarwal,Finance,Senior Executive,WFH,08:59,18:06,9.12
+2026-04-29,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:59,18:07,9.13
+2026-04-30,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:15,17:53,8.63
+2026-05-01,EMP010,Sneha Agarwal,Finance,Senior Executive,WFH,08:55,18:04,9.15
+2026-05-04,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,09:56,17:53,7.95
+2026-05-05,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-05-06,EMP010,Sneha Agarwal,Finance,Senior Executive,Absent,,,0.0
+2026-05-07,EMP010,Sneha Agarwal,Finance,Senior Executive,Absent,,,0.0
+2026-05-08,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-05-11,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,10:02,18:17,8.25
+2026-05-12,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:51,18:08,9.28
+2026-05-13,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:01,17:58,8.95
+2026-05-14,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:21,17:57,8.6
+2026-05-15,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:58,17:54,8.93
+2026-05-18,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:08,17:51,8.72
+2026-05-19,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,10:08,17:47,7.65
+2026-05-20,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-05-21,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:58,18:23,9.42
+2026-05-22,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:59,17:55,8.93
+2026-05-25,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:00,18:13,9.22
+2026-05-26,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:16,18:08,8.87
+2026-05-27,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-05-28,EMP010,Sneha Agarwal,Finance,Senior Executive,Absent,,,0.0
+2026-05-29,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:18,18:24,9.1
+2026-06-01,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:18,17:59,8.68
+2026-06-02,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,09:54,18:15,8.35
+2026-06-03,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:13,18:28,9.25
+2026-06-04,EMP010,Sneha Agarwal,Finance,Senior Executive,WFH,09:18,18:14,8.93
+2026-06-05,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:14,18:17,9.05
+2026-06-08,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,09:45,17:57,8.2
+2026-06-09,EMP010,Sneha Agarwal,Finance,Senior Executive,WFH,08:58,18:01,9.05
+2026-06-10,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:20,18:08,8.8
+2026-06-11,EMP010,Sneha Agarwal,Finance,Senior Executive,Late,10:08,17:52,7.73
+2026-06-12,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:55,17:55,9.0
+2026-06-15,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:18,18:17,8.98
+2026-06-16,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:17,17:50,8.55
+2026-06-17,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:18,18:07,8.82
+2026-06-18,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:16,17:48,8.53
+2026-06-19,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:22,18:08,8.77
+2026-06-22,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:14,17:50,8.6
+2026-06-23,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:04,17:46,8.7
+2026-06-24,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:56,18:30,9.57
+2026-06-25,EMP010,Sneha Agarwal,Finance,Senior Executive,Leave,,,0.0
+2026-06-26,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,08:59,17:53,8.9
+2026-06-29,EMP010,Sneha Agarwal,Finance,Senior Executive,Present,09:08,18:15,9.12
+2026-06-30,EMP010,Sneha Agarwal,Finance,Senior Executive,Absent,,,0.0
+2026-04-01,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:20,18:13,8.88
+2026-04-02,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:55,17:46,8.85
+2026-04-03,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:59,18:20,9.35
+2026-04-06,EMP011,Mohit Tiwari,Finance,Team Lead,Absent,,,0.0
+2026-04-07,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:08,18:00,8.87
+2026-04-08,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:05,18:11,9.1
+2026-04-09,EMP011,Mohit Tiwari,Finance,Team Lead,Leave,,,0.0
+2026-04-10,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:21,18:23,9.03
+2026-04-13,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:22,18:21,8.98
+2026-04-14,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:08,18:12,9.07
+2026-04-15,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:05,18:21,9.27
+2026-04-16,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:55,18:18,9.38
+2026-04-17,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:23,18:19,8.93
+2026-04-20,EMP011,Mohit Tiwari,Finance,Team Lead,Late,10:10,17:46,7.6
+2026-04-21,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:52,18:25,9.55
+2026-04-22,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:06,17:46,8.67
+2026-04-23,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:12,18:00,8.8
+2026-04-24,EMP011,Mohit Tiwari,Finance,Team Lead,Absent,,,0.0
+2026-04-27,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:11,17:53,8.7
+2026-04-28,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:11,18:26,9.25
+2026-04-29,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:19,18:29,9.17
+2026-04-30,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:58,17:49,8.85
+2026-05-01,EMP011,Mohit Tiwari,Finance,Team Lead,Absent,,,0.0
+2026-05-04,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:02,17:47,8.75
+2026-05-05,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:10,18:04,8.9
+2026-05-06,EMP011,Mohit Tiwari,Finance,Team Lead,Late,10:05,18:01,7.93
+2026-05-07,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:02,18:03,9.02
+2026-05-08,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:53,18:26,9.55
+2026-05-11,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:13,18:12,8.98
+2026-05-12,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:14,18:06,8.87
+2026-05-13,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:21,18:08,8.78
+2026-05-14,EMP011,Mohit Tiwari,Finance,Team Lead,Late,10:02,17:50,7.8
+2026-05-15,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:01,18:19,9.3
+2026-05-18,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:55,18:05,9.17
+2026-05-19,EMP011,Mohit Tiwari,Finance,Team Lead,Leave,,,0.0
+2026-05-20,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:17,17:55,8.63
+2026-05-21,EMP011,Mohit Tiwari,Finance,Team Lead,Absent,,,0.0
+2026-05-22,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:12,18:24,9.2
+2026-05-25,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:53,17:49,8.93
+2026-05-26,EMP011,Mohit Tiwari,Finance,Team Lead,Leave,,,0.0
+2026-05-27,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:00,17:46,8.77
+2026-05-28,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:18,17:47,8.48
+2026-05-29,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:13,18:08,8.92
+2026-06-01,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:52,18:23,9.52
+2026-06-02,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:13,18:08,8.92
+2026-06-03,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:58,18:18,9.33
+2026-06-04,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:07,18:00,8.88
+2026-06-05,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:01,18:16,9.25
+2026-06-08,EMP011,Mohit Tiwari,Finance,Team Lead,Late,09:42,18:01,8.32
+2026-06-09,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:03,18:24,9.35
+2026-06-10,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:21,17:57,8.6
+2026-06-11,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:54,18:13,9.32
+2026-06-12,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:18,17:50,8.53
+2026-06-15,EMP011,Mohit Tiwari,Finance,Team Lead,Leave,,,0.0
+2026-06-16,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:54,18:20,9.43
+2026-06-17,EMP011,Mohit Tiwari,Finance,Team Lead,Late,09:45,18:30,8.75
+2026-06-18,EMP011,Mohit Tiwari,Finance,Team Lead,Absent,,,0.0
+2026-06-19,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:13,18:17,9.07
+2026-06-22,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:02,17:53,8.85
+2026-06-23,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:51,18:08,9.28
+2026-06-24,EMP011,Mohit Tiwari,Finance,Team Lead,Late,10:10,17:53,7.72
+2026-06-25,EMP011,Mohit Tiwari,Finance,Team Lead,WFH,08:54,18:04,9.17
+2026-06-26,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:20,18:18,8.97
+2026-06-29,EMP011,Mohit Tiwari,Finance,Team Lead,Present,08:54,17:53,8.98
+2026-06-30,EMP011,Mohit Tiwari,Finance,Team Lead,Present,09:18,18:14,8.93
+2026-04-01,EMP012,Ishita Roy,IT,Developer,Leave,,,0.0
+2026-04-02,EMP012,Ishita Roy,IT,Developer,Late,09:43,18:20,8.62
+2026-04-03,EMP012,Ishita Roy,IT,Developer,Leave,,,0.0
+2026-04-06,EMP012,Ishita Roy,IT,Developer,WFH,09:01,17:53,8.87
+2026-04-07,EMP012,Ishita Roy,IT,Developer,Present,09:22,17:48,8.43
+2026-04-08,EMP012,Ishita Roy,IT,Developer,Present,09:23,17:54,8.52
+2026-04-09,EMP012,Ishita Roy,IT,Developer,Present,09:00,17:55,8.92
+2026-04-10,EMP012,Ishita Roy,IT,Developer,Present,09:04,18:07,9.05
+2026-04-13,EMP012,Ishita Roy,IT,Developer,Late,09:40,18:01,8.35
+2026-04-14,EMP012,Ishita Roy,IT,Developer,Present,09:25,18:02,8.62
+2026-04-15,EMP012,Ishita Roy,IT,Developer,Present,09:09,18:24,9.25
+2026-04-16,EMP012,Ishita Roy,IT,Developer,Late,10:07,18:26,8.32
+2026-04-17,EMP012,Ishita Roy,IT,Developer,Present,08:59,17:55,8.93
+2026-04-20,EMP012,Ishita Roy,IT,Developer,Leave,,,0.0
+2026-04-21,EMP012,Ishita Roy,IT,Developer,WFH,09:11,18:21,9.17
+2026-04-22,EMP012,Ishita Roy,IT,Developer,Present,08:51,17:50,8.98
+2026-04-23,EMP012,Ishita Roy,IT,Developer,Present,09:06,18:26,9.33
+2026-04-24,EMP012,Ishita Roy,IT,Developer,Present,09:16,18:24,9.13
+2026-04-27,EMP012,Ishita Roy,IT,Developer,Leave,,,0.0
+2026-04-28,EMP012,Ishita Roy,IT,Developer,Present,09:21,18:25,9.07
+2026-04-29,EMP012,Ishita Roy,IT,Developer,Late,09:54,18:15,8.35
+2026-04-30,EMP012,Ishita Roy,IT,Developer,Present,09:15,18:04,8.82
+2026-05-01,EMP012,Ishita Roy,IT,Developer,Present,08:54,18:29,9.58
+2026-05-04,EMP012,Ishita Roy,IT,Developer,Present,09:00,18:13,9.22
+2026-05-05,EMP012,Ishita Roy,IT,Developer,Present,09:20,18:14,8.9
+2026-05-06,EMP012,Ishita Roy,IT,Developer,Present,09:11,18:23,9.2
+2026-05-07,EMP012,Ishita Roy,IT,Developer,Present,09:10,18:30,9.33
+2026-05-08,EMP012,Ishita Roy,IT,Developer,Present,09:12,18:10,8.97
+2026-05-11,EMP012,Ishita Roy,IT,Developer,Present,09:13,18:17,9.07
+2026-05-12,EMP012,Ishita Roy,IT,Developer,Late,09:55,18:00,8.08
+2026-05-13,EMP012,Ishita Roy,IT,Developer,Present,08:57,18:02,9.08
+2026-05-14,EMP012,Ishita Roy,IT,Developer,Present,09:05,17:54,8.82
+2026-05-15,EMP012,Ishita Roy,IT,Developer,Present,08:53,18:03,9.17
+2026-05-18,EMP012,Ishita Roy,IT,Developer,Present,09:16,18:00,8.73
+2026-05-19,EMP012,Ishita Roy,IT,Developer,Present,09:10,18:21,9.18
+2026-05-20,EMP012,Ishita Roy,IT,Developer,Absent,,,0.0
+2026-05-21,EMP012,Ishita Roy,IT,Developer,Present,09:02,17:55,8.88
+2026-05-22,EMP012,Ishita Roy,IT,Developer,Present,09:22,18:14,8.87
+2026-05-25,EMP012,Ishita Roy,IT,Developer,Present,09:09,18:16,9.12
+2026-05-26,EMP012,Ishita Roy,IT,Developer,Present,08:55,18:10,9.25
+2026-05-27,EMP012,Ishita Roy,IT,Developer,Late,09:50,17:58,8.13
+2026-05-28,EMP012,Ishita Roy,IT,Developer,WFH,09:12,17:48,8.6
+2026-05-29,EMP012,Ishita Roy,IT,Developer,Present,09:08,18:16,9.13
+2026-06-01,EMP012,Ishita Roy,IT,Developer,WFH,09:20,18:03,8.72
+2026-06-02,EMP012,Ishita Roy,IT,Developer,Late,09:41,18:12,8.52
+2026-06-03,EMP012,Ishita Roy,IT,Developer,Present,09:06,18:08,9.03
+2026-06-04,EMP012,Ishita Roy,IT,Developer,Present,09:13,17:47,8.57
+2026-06-05,EMP012,Ishita Roy,IT,Developer,Present,08:53,18:21,9.47
+2026-06-08,EMP012,Ishita Roy,IT,Developer,Late,09:58,18:20,8.37
+2026-06-09,EMP012,Ishita Roy,IT,Developer,Present,08:54,18:09,9.25
+2026-06-10,EMP012,Ishita Roy,IT,Developer,Late,10:10,18:02,7.87
+2026-06-11,EMP012,Ishita Roy,IT,Developer,WFH,08:57,17:53,8.93
+2026-06-12,EMP012,Ishita Roy,IT,Developer,Present,09:15,18:08,8.88
+2026-06-15,EMP012,Ishita Roy,IT,Developer,Present,09:25,18:08,8.72
+2026-06-16,EMP012,Ishita Roy,IT,Developer,Present,09:02,18:23,9.35
+2026-06-17,EMP012,Ishita Roy,IT,Developer,Late,10:07,17:47,7.67
+2026-06-18,EMP012,Ishita Roy,IT,Developer,Present,08:52,17:53,9.02
+2026-06-19,EMP012,Ishita Roy,IT,Developer,Absent,,,0.0
+2026-06-22,EMP012,Ishita Roy,IT,Developer,Present,09:20,18:18,8.97
+2026-06-23,EMP012,Ishita Roy,IT,Developer,Present,08:59,18:23,9.4
+2026-06-24,EMP012,Ishita Roy,IT,Developer,Late,09:55,18:24,8.48
+2026-06-25,EMP012,Ishita Roy,IT,Developer,Present,09:00,18:10,9.17
+2026-06-26,EMP012,Ishita Roy,IT,Developer,WFH,09:09,18:22,9.22
+2026-06-29,EMP012,Ishita Roy,IT,Developer,Present,09:22,18:17,8.92
+2026-06-30,EMP012,Ishita Roy,IT,Developer,Late,09:54,18:15,8.35
+2026-04-01,EMP013,Karan Singh,IT,Support Executive,Present,09:13,18:06,8.88
+2026-04-02,EMP013,Karan Singh,IT,Support Executive,Leave,,,0.0
+2026-04-03,EMP013,Karan Singh,IT,Support Executive,Present,09:16,18:22,9.1
+2026-04-06,EMP013,Karan Singh,IT,Support Executive,Present,08:51,18:23,9.53
+2026-04-07,EMP013,Karan Singh,IT,Support Executive,Present,09:06,18:26,9.33
+2026-04-08,EMP013,Karan Singh,IT,Support Executive,WFH,09:04,17:48,8.73
+2026-04-09,EMP013,Karan Singh,IT,Support Executive,WFH,09:20,17:55,8.58
+2026-04-10,EMP013,Karan Singh,IT,Support Executive,Late,09:44,18:28,8.73
+2026-04-13,EMP013,Karan Singh,IT,Support Executive,Present,08:52,18:21,9.48
+2026-04-14,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-04-15,EMP013,Karan Singh,IT,Support Executive,Present,09:02,17:46,8.73
+2026-04-16,EMP013,Karan Singh,IT,Support Executive,Present,09:10,18:11,9.02
+2026-04-17,EMP013,Karan Singh,IT,Support Executive,Present,09:16,18:29,9.22
+2026-04-20,EMP013,Karan Singh,IT,Support Executive,Present,09:16,18:17,9.02
+2026-04-21,EMP013,Karan Singh,IT,Support Executive,WFH,09:20,17:48,8.47
+2026-04-22,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-04-23,EMP013,Karan Singh,IT,Support Executive,Present,09:23,17:58,8.58
+2026-04-24,EMP013,Karan Singh,IT,Support Executive,Late,10:05,18:18,8.22
+2026-04-27,EMP013,Karan Singh,IT,Support Executive,Present,09:10,17:56,8.77
+2026-04-28,EMP013,Karan Singh,IT,Support Executive,Present,09:24,18:06,8.7
+2026-04-29,EMP013,Karan Singh,IT,Support Executive,Late,09:51,18:24,8.55
+2026-04-30,EMP013,Karan Singh,IT,Support Executive,Present,09:02,18:00,8.97
+2026-05-01,EMP013,Karan Singh,IT,Support Executive,Present,09:25,18:04,8.65
+2026-05-04,EMP013,Karan Singh,IT,Support Executive,Present,09:09,18:03,8.9
+2026-05-05,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-05-06,EMP013,Karan Singh,IT,Support Executive,Present,09:21,18:05,8.73
+2026-05-07,EMP013,Karan Singh,IT,Support Executive,Present,09:12,18:20,9.13
+2026-05-08,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-05-11,EMP013,Karan Singh,IT,Support Executive,Present,09:08,17:52,8.73
+2026-05-12,EMP013,Karan Singh,IT,Support Executive,WFH,09:24,18:09,8.75
+2026-05-13,EMP013,Karan Singh,IT,Support Executive,Present,09:12,17:54,8.7
+2026-05-14,EMP013,Karan Singh,IT,Support Executive,Present,08:52,18:03,9.18
+2026-05-15,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-05-18,EMP013,Karan Singh,IT,Support Executive,Present,09:12,18:13,9.02
+2026-05-19,EMP013,Karan Singh,IT,Support Executive,Leave,,,0.0
+2026-05-20,EMP013,Karan Singh,IT,Support Executive,Present,09:20,17:58,8.63
+2026-05-21,EMP013,Karan Singh,IT,Support Executive,Present,09:24,18:02,8.63
+2026-05-22,EMP013,Karan Singh,IT,Support Executive,Late,09:43,17:51,8.13
+2026-05-25,EMP013,Karan Singh,IT,Support Executive,WFH,09:05,18:00,8.92
+2026-05-26,EMP013,Karan Singh,IT,Support Executive,Present,09:23,17:59,8.6
+2026-05-27,EMP013,Karan Singh,IT,Support Executive,Leave,,,0.0
+2026-05-28,EMP013,Karan Singh,IT,Support Executive,Present,08:53,17:51,8.97
+2026-05-29,EMP013,Karan Singh,IT,Support Executive,Present,09:11,18:30,9.32
+2026-06-01,EMP013,Karan Singh,IT,Support Executive,Present,08:56,18:28,9.53
+2026-06-02,EMP013,Karan Singh,IT,Support Executive,Present,08:50,18:20,9.5
+2026-06-03,EMP013,Karan Singh,IT,Support Executive,Present,09:16,18:26,9.17
+2026-06-04,EMP013,Karan Singh,IT,Support Executive,Present,09:20,18:26,9.1
+2026-06-05,EMP013,Karan Singh,IT,Support Executive,Present,09:08,18:05,8.95
+2026-06-08,EMP013,Karan Singh,IT,Support Executive,Present,08:53,17:50,8.95
+2026-06-09,EMP013,Karan Singh,IT,Support Executive,Leave,,,0.0
+2026-06-10,EMP013,Karan Singh,IT,Support Executive,WFH,09:04,18:19,9.25
+2026-06-11,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-06-12,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-06-15,EMP013,Karan Singh,IT,Support Executive,Present,09:01,18:11,9.17
+2026-06-16,EMP013,Karan Singh,IT,Support Executive,Present,08:52,18:10,9.3
+2026-06-17,EMP013,Karan Singh,IT,Support Executive,Present,09:01,18:03,9.03
+2026-06-18,EMP013,Karan Singh,IT,Support Executive,Present,08:50,18:04,9.23
+2026-06-19,EMP013,Karan Singh,IT,Support Executive,WFH,08:56,18:06,9.17
+2026-06-22,EMP013,Karan Singh,IT,Support Executive,Present,09:19,18:26,9.12
+2026-06-23,EMP013,Karan Singh,IT,Support Executive,Late,10:06,17:53,7.78
+2026-06-24,EMP013,Karan Singh,IT,Support Executive,Late,09:52,17:57,8.08
+2026-06-25,EMP013,Karan Singh,IT,Support Executive,Present,09:11,17:55,8.73
+2026-06-26,EMP013,Karan Singh,IT,Support Executive,Absent,,,0.0
+2026-06-29,EMP013,Karan Singh,IT,Support Executive,Present,09:06,18:30,9.4
+2026-06-30,EMP013,Karan Singh,IT,Support Executive,Present,08:50,18:06,9.27
+2026-04-01,EMP014,Pooja Das,IT,Developer,Present,09:02,17:56,8.9
+2026-04-02,EMP014,Pooja Das,IT,Developer,WFH,09:15,18:12,8.95
+2026-04-03,EMP014,Pooja Das,IT,Developer,Late,09:40,18:10,8.5
+2026-04-06,EMP014,Pooja Das,IT,Developer,Leave,,,0.0
+2026-04-07,EMP014,Pooja Das,IT,Developer,Present,09:01,17:53,8.87
+2026-04-08,EMP014,Pooja Das,IT,Developer,Present,09:10,18:00,8.83
+2026-04-09,EMP014,Pooja Das,IT,Developer,Present,09:06,18:09,9.05
+2026-04-10,EMP014,Pooja Das,IT,Developer,Present,09:18,18:02,8.73
+2026-04-13,EMP014,Pooja Das,IT,Developer,Present,09:09,18:22,9.22
+2026-04-14,EMP014,Pooja Das,IT,Developer,Absent,,,0.0
+2026-04-15,EMP014,Pooja Das,IT,Developer,WFH,08:50,18:01,9.18
+2026-04-16,EMP014,Pooja Das,IT,Developer,Leave,,,0.0
+2026-04-17,EMP014,Pooja Das,IT,Developer,Present,09:05,17:48,8.72
+2026-04-20,EMP014,Pooja Das,IT,Developer,Leave,,,0.0
+2026-04-21,EMP014,Pooja Das,IT,Developer,Present,09:19,18:04,8.75
+2026-04-22,EMP014,Pooja Das,IT,Developer,Present,09:15,18:28,9.22
+2026-04-23,EMP014,Pooja Das,IT,Developer,Late,09:42,18:25,8.72
+2026-04-24,EMP014,Pooja Das,IT,Developer,Present,09:13,18:24,9.18
+2026-04-27,EMP014,Pooja Das,IT,Developer,Present,09:04,17:53,8.82
+2026-04-28,EMP014,Pooja Das,IT,Developer,Present,08:59,18:14,9.25
+2026-04-29,EMP014,Pooja Das,IT,Developer,Absent,,,0.0
+2026-04-30,EMP014,Pooja Das,IT,Developer,WFH,09:13,18:11,8.97
+2026-05-01,EMP014,Pooja Das,IT,Developer,Absent,,,0.0
+2026-05-04,EMP014,Pooja Das,IT,Developer,Late,10:09,18:27,8.3
+2026-05-05,EMP014,Pooja Das,IT,Developer,Present,09:05,18:28,9.38
+2026-05-06,EMP014,Pooja Das,IT,Developer,WFH,08:55,18:18,9.38
+2026-05-07,EMP014,Pooja Das,IT,Developer,Present,09:23,18:30,9.12
+2026-05-08,EMP014,Pooja Das,IT,Developer,Present,08:54,18:21,9.45
+2026-05-11,EMP014,Pooja Das,IT,Developer,Present,08:53,18:20,9.45
+2026-05-12,EMP014,Pooja Das,IT,Developer,Late,10:09,17:54,7.75
+2026-05-13,EMP014,Pooja Das,IT,Developer,Present,09:10,18:18,9.13
+2026-05-14,EMP014,Pooja Das,IT,Developer,Present,08:57,18:28,9.52
+2026-05-15,EMP014,Pooja Das,IT,Developer,Present,09:21,17:50,8.48
+2026-05-18,EMP014,Pooja Das,IT,Developer,Late,09:38,18:14,8.6
+2026-05-19,EMP014,Pooja Das,IT,Developer,Present,09:22,18:11,8.82
+2026-05-20,EMP014,Pooja Das,IT,Developer,Present,08:53,18:20,9.45
+2026-05-21,EMP014,Pooja Das,IT,Developer,Present,09:09,17:46,8.62
+2026-05-22,EMP014,Pooja Das,IT,Developer,Present,09:06,17:45,8.65
+2026-05-25,EMP014,Pooja Das,IT,Developer,Absent,,,0.0
+2026-05-26,EMP014,Pooja Das,IT,Developer,Present,08:54,17:47,8.88
+2026-05-27,EMP014,Pooja Das,IT,Developer,Present,09:12,18:29,9.28
+2026-05-28,EMP014,Pooja Das,IT,Developer,Present,09:24,17:48,8.4
+2026-05-29,EMP014,Pooja Das,IT,Developer,Present,09:20,17:47,8.45
+2026-06-01,EMP014,Pooja Das,IT,Developer,Present,09:16,17:56,8.67
+2026-06-02,EMP014,Pooja Das,IT,Developer,Present,09:16,18:08,8.87
+2026-06-03,EMP014,Pooja Das,IT,Developer,Present,09:18,18:09,8.85
+2026-06-04,EMP014,Pooja Das,IT,Developer,Present,08:55,18:28,9.55
+2026-06-05,EMP014,Pooja Das,IT,Developer,Leave,,,0.0
+2026-06-08,EMP014,Pooja Das,IT,Developer,Late,09:57,17:52,7.92
+2026-06-09,EMP014,Pooja Das,IT,Developer,Present,09:24,18:10,8.77
+2026-06-10,EMP014,Pooja Das,IT,Developer,Late,09:49,17:45,7.93
+2026-06-11,EMP014,Pooja Das,IT,Developer,Present,09:09,18:14,9.08
+2026-06-12,EMP014,Pooja Das,IT,Developer,Leave,,,0.0
+2026-06-15,EMP014,Pooja Das,IT,Developer,Absent,,,0.0
+2026-06-16,EMP014,Pooja Das,IT,Developer,Late,10:09,18:09,8.0
+2026-06-17,EMP014,Pooja Das,IT,Developer,Present,09:05,18:14,9.15
+2026-06-18,EMP014,Pooja Das,IT,Developer,Present,08:59,18:02,9.05
+2026-06-19,EMP014,Pooja Das,IT,Developer,Present,08:57,17:47,8.83
+2026-06-22,EMP014,Pooja Das,IT,Developer,Leave,,,0.0
+2026-06-23,EMP014,Pooja Das,IT,Developer,Present,08:51,18:00,9.15
+2026-06-24,EMP014,Pooja Das,IT,Developer,Present,08:54,17:51,8.95
+2026-06-25,EMP014,Pooja Das,IT,Developer,WFH,08:52,18:13,9.35
+2026-06-26,EMP014,Pooja Das,IT,Developer,WFH,08:53,18:00,9.12
+2026-06-29,EMP014,Pooja Das,IT,Developer,Absent,,,0.0
+2026-06-30,EMP014,Pooja Das,IT,Developer,Present,09:15,18:13,8.97
+2026-04-01,EMP015,Nitin Gupta,IT,Team Lead,Present,08:53,17:53,9.0
+2026-04-02,EMP015,Nitin Gupta,IT,Team Lead,Late,09:55,18:21,8.43
+2026-04-03,EMP015,Nitin Gupta,IT,Team Lead,WFH,09:10,18:00,8.83
+2026-04-06,EMP015,Nitin Gupta,IT,Team Lead,Present,09:23,17:59,8.6
+2026-04-07,EMP015,Nitin Gupta,IT,Team Lead,Present,08:53,18:20,9.45
+2026-04-08,EMP015,Nitin Gupta,IT,Team Lead,WFH,09:01,18:25,9.4
+2026-04-09,EMP015,Nitin Gupta,IT,Team Lead,Leave,,,0.0
+2026-04-10,EMP015,Nitin Gupta,IT,Team Lead,Present,09:12,18:26,9.23
+2026-04-13,EMP015,Nitin Gupta,IT,Team Lead,Leave,,,0.0
+2026-04-14,EMP015,Nitin Gupta,IT,Team Lead,Late,10:01,17:54,7.88
+2026-04-15,EMP015,Nitin Gupta,IT,Team Lead,Present,09:24,18:15,8.85
+2026-04-16,EMP015,Nitin Gupta,IT,Team Lead,Present,09:09,18:30,9.35
+2026-04-17,EMP015,Nitin Gupta,IT,Team Lead,Present,08:53,18:20,9.45
+2026-04-20,EMP015,Nitin Gupta,IT,Team Lead,Present,09:25,18:18,8.88
+2026-04-21,EMP015,Nitin Gupta,IT,Team Lead,Present,09:06,17:58,8.87
+2026-04-22,EMP015,Nitin Gupta,IT,Team Lead,Present,09:18,18:08,8.83
+2026-04-23,EMP015,Nitin Gupta,IT,Team Lead,Present,09:02,17:48,8.77
+2026-04-24,EMP015,Nitin Gupta,IT,Team Lead,Present,08:52,17:49,8.95
+2026-04-27,EMP015,Nitin Gupta,IT,Team Lead,Present,09:25,17:58,8.55
+2026-04-28,EMP015,Nitin Gupta,IT,Team Lead,Present,09:11,18:04,8.88
+2026-04-29,EMP015,Nitin Gupta,IT,Team Lead,Present,09:02,17:52,8.83
+2026-04-30,EMP015,Nitin Gupta,IT,Team Lead,Absent,,,0.0
+2026-05-01,EMP015,Nitin Gupta,IT,Team Lead,Present,09:03,18:10,9.12
+2026-05-04,EMP015,Nitin Gupta,IT,Team Lead,Present,09:08,18:09,9.02
+2026-05-05,EMP015,Nitin Gupta,IT,Team Lead,Present,09:12,18:04,8.87
+2026-05-06,EMP015,Nitin Gupta,IT,Team Lead,Present,09:21,18:14,8.88
+2026-05-07,EMP015,Nitin Gupta,IT,Team Lead,Present,09:20,18:05,8.75
+2026-05-08,EMP015,Nitin Gupta,IT,Team Lead,Present,09:16,17:47,8.52
+2026-05-11,EMP015,Nitin Gupta,IT,Team Lead,WFH,08:59,17:46,8.78
+2026-05-12,EMP015,Nitin Gupta,IT,Team Lead,Present,09:16,18:03,8.78
+2026-05-13,EMP015,Nitin Gupta,IT,Team Lead,Present,09:04,18:09,9.08
+2026-05-14,EMP015,Nitin Gupta,IT,Team Lead,WFH,09:21,18:20,8.98
+2026-05-15,EMP015,Nitin Gupta,IT,Team Lead,Leave,,,0.0
+2026-05-18,EMP015,Nitin Gupta,IT,Team Lead,Present,09:21,18:26,9.08
+2026-05-19,EMP015,Nitin Gupta,IT,Team Lead,Absent,,,0.0
+2026-05-20,EMP015,Nitin Gupta,IT,Team Lead,Present,09:12,17:55,8.72
+2026-05-21,EMP015,Nitin Gupta,IT,Team Lead,Present,09:21,17:56,8.58
+2026-05-22,EMP015,Nitin Gupta,IT,Team Lead,Late,10:08,17:47,7.65
+2026-05-25,EMP015,Nitin Gupta,IT,Team Lead,Present,08:53,17:45,8.87
+2026-05-26,EMP015,Nitin Gupta,IT,Team Lead,Present,09:04,17:49,8.75
+2026-05-27,EMP015,Nitin Gupta,IT,Team Lead,Present,09:03,18:17,9.23
+2026-05-28,EMP015,Nitin Gupta,IT,Team Lead,Present,09:20,18:27,9.12
+2026-05-29,EMP015,Nitin Gupta,IT,Team Lead,Present,09:24,18:20,8.93
+2026-06-01,EMP015,Nitin Gupta,IT,Team Lead,Present,09:23,18:02,8.65
+2026-06-02,EMP015,Nitin Gupta,IT,Team Lead,Late,10:07,18:29,8.37
+2026-06-03,EMP015,Nitin Gupta,IT,Team Lead,Leave,,,0.0
+2026-06-04,EMP015,Nitin Gupta,IT,Team Lead,Present,08:56,18:18,9.37
+2026-06-05,EMP015,Nitin Gupta,IT,Team Lead,Present,09:23,18:01,8.63
+2026-06-08,EMP015,Nitin Gupta,IT,Team Lead,Present,09:15,17:50,8.58
+2026-06-09,EMP015,Nitin Gupta,IT,Team Lead,Present,09:19,18:21,9.03
+2026-06-10,EMP015,Nitin Gupta,IT,Team Lead,Present,09:04,18:04,9.0
+2026-06-11,EMP015,Nitin Gupta,IT,Team Lead,Leave,,,0.0
+2026-06-12,EMP015,Nitin Gupta,IT,Team Lead,Present,08:52,17:50,8.97
+2026-06-15,EMP015,Nitin Gupta,IT,Team Lead,Present,09:25,18:15,8.83
+2026-06-16,EMP015,Nitin Gupta,IT,Team Lead,Present,09:00,17:50,8.83
+2026-06-17,EMP015,Nitin Gupta,IT,Team Lead,Present,09:11,18:21,9.17
+2026-06-18,EMP015,Nitin Gupta,IT,Team Lead,Present,08:52,17:59,9.12
+2026-06-19,EMP015,Nitin Gupta,IT,Team Lead,Present,09:20,18:02,8.7
+2026-06-22,EMP015,Nitin Gupta,IT,Team Lead,Present,09:07,18:19,9.2
+2026-06-23,EMP015,Nitin Gupta,IT,Team Lead,WFH,09:01,18:05,9.07
+2026-06-24,EMP015,Nitin Gupta,IT,Team Lead,Present,08:59,18:30,9.52
+2026-06-25,EMP015,Nitin Gupta,IT,Team Lead,Present,09:09,17:55,8.77
+2026-06-26,EMP015,Nitin Gupta,IT,Team Lead,Present,09:14,18:28,9.23
+2026-06-29,EMP015,Nitin Gupta,IT,Team Lead,Late,09:40,18:17,8.62
+2026-06-30,EMP015,Nitin Gupta,IT,Team Lead,Absent,,,0.0
+2026-04-01,EMP016,Simran Kaur,Operations,Executive,Present,08:56,18:12,9.27
+2026-04-02,EMP016,Simran Kaur,Operations,Executive,Present,08:54,18:06,9.2
+2026-04-03,EMP016,Simran Kaur,Operations,Executive,WFH,09:15,18:05,8.83
+2026-04-06,EMP016,Simran Kaur,Operations,Executive,Present,09:07,18:13,9.1
+2026-04-07,EMP016,Simran Kaur,Operations,Executive,Present,09:04,18:07,9.05
+2026-04-08,EMP016,Simran Kaur,Operations,Executive,Late,10:02,17:56,7.9
+2026-04-09,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-04-10,EMP016,Simran Kaur,Operations,Executive,WFH,09:14,17:50,8.6
+2026-04-13,EMP016,Simran Kaur,Operations,Executive,WFH,09:08,18:00,8.87
+2026-04-14,EMP016,Simran Kaur,Operations,Executive,Absent,,,0.0
+2026-04-15,EMP016,Simran Kaur,Operations,Executive,Present,08:55,18:02,9.12
+2026-04-16,EMP016,Simran Kaur,Operations,Executive,Present,09:14,18:30,9.27
+2026-04-17,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-04-20,EMP016,Simran Kaur,Operations,Executive,Present,09:14,18:05,8.85
+2026-04-21,EMP016,Simran Kaur,Operations,Executive,Present,08:56,17:50,8.9
+2026-04-22,EMP016,Simran Kaur,Operations,Executive,Present,09:09,18:13,9.07
+2026-04-23,EMP016,Simran Kaur,Operations,Executive,Present,09:07,17:51,8.73
+2026-04-24,EMP016,Simran Kaur,Operations,Executive,Present,08:55,17:56,9.02
+2026-04-27,EMP016,Simran Kaur,Operations,Executive,Present,09:18,18:20,9.03
+2026-04-28,EMP016,Simran Kaur,Operations,Executive,Late,10:01,17:51,7.83
+2026-04-29,EMP016,Simran Kaur,Operations,Executive,Present,08:55,18:07,9.2
+2026-04-30,EMP016,Simran Kaur,Operations,Executive,Late,09:55,18:09,8.23
+2026-05-01,EMP016,Simran Kaur,Operations,Executive,Present,09:08,18:11,9.05
+2026-05-04,EMP016,Simran Kaur,Operations,Executive,Present,08:55,18:20,9.42
+2026-05-05,EMP016,Simran Kaur,Operations,Executive,Present,09:23,17:55,8.53
+2026-05-06,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-05-07,EMP016,Simran Kaur,Operations,Executive,Present,09:00,17:53,8.88
+2026-05-08,EMP016,Simran Kaur,Operations,Executive,Present,09:09,18:02,8.88
+2026-05-11,EMP016,Simran Kaur,Operations,Executive,Present,08:59,17:49,8.83
+2026-05-12,EMP016,Simran Kaur,Operations,Executive,Present,09:17,18:02,8.75
+2026-05-13,EMP016,Simran Kaur,Operations,Executive,Present,09:09,18:15,9.1
+2026-05-14,EMP016,Simran Kaur,Operations,Executive,Present,09:13,18:01,8.8
+2026-05-15,EMP016,Simran Kaur,Operations,Executive,Present,09:21,18:23,9.03
+2026-05-18,EMP016,Simran Kaur,Operations,Executive,WFH,09:02,18:14,9.2
+2026-05-19,EMP016,Simran Kaur,Operations,Executive,Present,08:58,18:04,9.1
+2026-05-20,EMP016,Simran Kaur,Operations,Executive,Present,09:15,18:06,8.85
+2026-05-21,EMP016,Simran Kaur,Operations,Executive,WFH,09:14,18:06,8.87
+2026-05-22,EMP016,Simran Kaur,Operations,Executive,Present,09:11,18:12,9.02
+2026-05-25,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-05-26,EMP016,Simran Kaur,Operations,Executive,WFH,08:58,18:04,9.1
+2026-05-27,EMP016,Simran Kaur,Operations,Executive,Present,09:02,18:15,9.22
+2026-05-28,EMP016,Simran Kaur,Operations,Executive,Present,09:01,18:10,9.15
+2026-05-29,EMP016,Simran Kaur,Operations,Executive,Present,09:08,18:29,9.35
+2026-06-01,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-06-02,EMP016,Simran Kaur,Operations,Executive,Present,09:05,18:05,9.0
+2026-06-03,EMP016,Simran Kaur,Operations,Executive,Present,09:07,18:10,9.05
+2026-06-04,EMP016,Simran Kaur,Operations,Executive,Present,08:57,18:21,9.4
+2026-06-05,EMP016,Simran Kaur,Operations,Executive,Present,09:24,17:56,8.53
+2026-06-08,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-06-09,EMP016,Simran Kaur,Operations,Executive,Late,10:04,18:30,8.43
+2026-06-10,EMP016,Simran Kaur,Operations,Executive,Present,09:18,18:03,8.75
+2026-06-11,EMP016,Simran Kaur,Operations,Executive,Absent,,,0.0
+2026-06-12,EMP016,Simran Kaur,Operations,Executive,Present,09:16,18:28,9.2
+2026-06-15,EMP016,Simran Kaur,Operations,Executive,Present,08:58,18:25,9.45
+2026-06-16,EMP016,Simran Kaur,Operations,Executive,Present,09:05,18:01,8.93
+2026-06-17,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-06-18,EMP016,Simran Kaur,Operations,Executive,Present,09:17,18:09,8.87
+2026-06-19,EMP016,Simran Kaur,Operations,Executive,Present,09:18,18:23,9.08
+2026-06-22,EMP016,Simran Kaur,Operations,Executive,Present,09:15,18:19,9.07
+2026-06-23,EMP016,Simran Kaur,Operations,Executive,Late,10:09,17:47,7.63
+2026-06-24,EMP016,Simran Kaur,Operations,Executive,Present,09:24,18:23,8.98
+2026-06-25,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-06-26,EMP016,Simran Kaur,Operations,Executive,Present,08:56,18:00,9.07
+2026-06-29,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-06-30,EMP016,Simran Kaur,Operations,Executive,Leave,,,0.0
+2026-04-01,EMP017,Amit Chauhan,Operations,Executive,Present,09:00,18:26,9.43
+2026-04-02,EMP017,Amit Chauhan,Operations,Executive,WFH,08:52,18:21,9.48
+2026-04-03,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-04-06,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-04-07,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-04-08,EMP017,Amit Chauhan,Operations,Executive,Present,09:11,18:12,9.02
+2026-04-09,EMP017,Amit Chauhan,Operations,Executive,Present,08:50,17:51,9.02
+2026-04-10,EMP017,Amit Chauhan,Operations,Executive,Present,09:04,18:17,9.22
+2026-04-13,EMP017,Amit Chauhan,Operations,Executive,Absent,,,0.0
+2026-04-14,EMP017,Amit Chauhan,Operations,Executive,Late,09:49,18:13,8.4
+2026-04-15,EMP017,Amit Chauhan,Operations,Executive,Present,09:15,18:14,8.98
+2026-04-16,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-04-17,EMP017,Amit Chauhan,Operations,Executive,WFH,09:22,17:54,8.53
+2026-04-20,EMP017,Amit Chauhan,Operations,Executive,Present,08:51,18:15,9.4
+2026-04-21,EMP017,Amit Chauhan,Operations,Executive,Present,09:08,18:11,9.05
+2026-04-22,EMP017,Amit Chauhan,Operations,Executive,Present,08:57,17:54,8.95
+2026-04-23,EMP017,Amit Chauhan,Operations,Executive,Present,09:09,18:06,8.95
+2026-04-24,EMP017,Amit Chauhan,Operations,Executive,Present,09:03,18:18,9.25
+2026-04-27,EMP017,Amit Chauhan,Operations,Executive,Present,09:12,18:15,9.05
+2026-04-28,EMP017,Amit Chauhan,Operations,Executive,Present,09:18,18:29,9.18
+2026-04-29,EMP017,Amit Chauhan,Operations,Executive,Present,09:10,17:49,8.65
+2026-04-30,EMP017,Amit Chauhan,Operations,Executive,Present,08:52,18:30,9.63
+2026-05-01,EMP017,Amit Chauhan,Operations,Executive,Present,08:51,18:06,9.25
+2026-05-04,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-05-05,EMP017,Amit Chauhan,Operations,Executive,Present,09:00,18:00,9.0
+2026-05-06,EMP017,Amit Chauhan,Operations,Executive,Late,10:10,17:55,7.75
+2026-05-07,EMP017,Amit Chauhan,Operations,Executive,Present,09:25,18:12,8.78
+2026-05-08,EMP017,Amit Chauhan,Operations,Executive,Present,09:04,18:10,9.1
+2026-05-11,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-05-12,EMP017,Amit Chauhan,Operations,Executive,Present,09:01,18:25,9.4
+2026-05-13,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-05-14,EMP017,Amit Chauhan,Operations,Executive,Present,09:15,17:46,8.52
+2026-05-15,EMP017,Amit Chauhan,Operations,Executive,Absent,,,0.0
+2026-05-18,EMP017,Amit Chauhan,Operations,Executive,WFH,09:02,18:13,9.18
+2026-05-19,EMP017,Amit Chauhan,Operations,Executive,WFH,09:17,18:09,8.87
+2026-05-20,EMP017,Amit Chauhan,Operations,Executive,Present,09:03,17:58,8.92
+2026-05-21,EMP017,Amit Chauhan,Operations,Executive,Present,08:54,18:21,9.45
+2026-05-22,EMP017,Amit Chauhan,Operations,Executive,Present,09:24,17:56,8.53
+2026-05-25,EMP017,Amit Chauhan,Operations,Executive,Present,09:10,17:57,8.78
+2026-05-26,EMP017,Amit Chauhan,Operations,Executive,Present,08:57,18:01,9.07
+2026-05-27,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-05-28,EMP017,Amit Chauhan,Operations,Executive,Present,09:23,18:25,9.03
+2026-05-29,EMP017,Amit Chauhan,Operations,Executive,Present,09:14,18:24,9.17
+2026-06-01,EMP017,Amit Chauhan,Operations,Executive,Present,08:57,18:07,9.17
+2026-06-02,EMP017,Amit Chauhan,Operations,Executive,Present,09:19,18:24,9.08
+2026-06-03,EMP017,Amit Chauhan,Operations,Executive,Present,09:09,18:24,9.25
+2026-06-04,EMP017,Amit Chauhan,Operations,Executive,WFH,08:55,18:28,9.55
+2026-06-05,EMP017,Amit Chauhan,Operations,Executive,Present,09:10,17:52,8.7
+2026-06-08,EMP017,Amit Chauhan,Operations,Executive,Present,09:09,17:52,8.72
+2026-06-09,EMP017,Amit Chauhan,Operations,Executive,Present,09:13,18:29,9.27
+2026-06-10,EMP017,Amit Chauhan,Operations,Executive,Present,09:22,18:09,8.78
+2026-06-11,EMP017,Amit Chauhan,Operations,Executive,Present,08:58,18:21,9.38
+2026-06-12,EMP017,Amit Chauhan,Operations,Executive,Present,09:17,17:56,8.65
+2026-06-15,EMP017,Amit Chauhan,Operations,Executive,Present,09:24,18:29,9.08
+2026-06-16,EMP017,Amit Chauhan,Operations,Executive,Leave,,,0.0
+2026-06-17,EMP017,Amit Chauhan,Operations,Executive,Present,09:25,17:55,8.5
+2026-06-18,EMP017,Amit Chauhan,Operations,Executive,Present,09:08,17:53,8.75
+2026-06-19,EMP017,Amit Chauhan,Operations,Executive,Present,09:10,18:13,9.05
+2026-06-22,EMP017,Amit Chauhan,Operations,Executive,WFH,08:53,18:07,9.23
+2026-06-23,EMP017,Amit Chauhan,Operations,Executive,Present,09:21,17:53,8.53
+2026-06-24,EMP017,Amit Chauhan,Operations,Executive,Present,09:14,18:20,9.1
+2026-06-25,EMP017,Amit Chauhan,Operations,Executive,Late,10:01,18:28,8.45
+2026-06-26,EMP017,Amit Chauhan,Operations,Executive,Present,09:16,18:30,9.23
+2026-06-29,EMP017,Amit Chauhan,Operations,Executive,Present,09:21,17:55,8.57
+2026-06-30,EMP017,Amit Chauhan,Operations,Executive,Present,08:51,17:59,9.13
+2026-04-01,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:52,18:02,9.17
+2026-04-02,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:24,18:03,8.65
+2026-04-03,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:19,18:21,9.03
+2026-04-06,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-04-07,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:25,18:17,8.87
+2026-04-08,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:57,18:02,9.08
+2026-04-09,EMP018,Divya Saxena,Operations,Senior Executive,Late,10:09,17:47,7.63
+2026-04-10,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-04-13,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:24,17:58,8.57
+2026-04-14,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:56,18:26,9.5
+2026-04-15,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:09,17:47,8.63
+2026-04-16,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:06,18:07,9.02
+2026-04-17,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:18,17:52,8.57
+2026-04-20,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:03,18:22,9.32
+2026-04-21,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-04-22,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:17,17:55,8.63
+2026-04-23,EMP018,Divya Saxena,Operations,Senior Executive,WFH,08:58,17:58,9.0
+2026-04-24,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:53,18:21,9.47
+2026-04-27,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:24,18:02,8.63
+2026-04-28,EMP018,Divya Saxena,Operations,Senior Executive,WFH,09:24,17:55,8.52
+2026-04-29,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:08,18:03,8.92
+2026-04-30,EMP018,Divya Saxena,Operations,Senior Executive,WFH,09:07,18:17,9.17
+2026-05-01,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-05-04,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:58,18:11,9.22
+2026-05-05,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:07,18:26,9.32
+2026-05-06,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:58,18:00,9.03
+2026-05-07,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:10,18:00,8.83
+2026-05-08,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-05-11,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:21,17:54,8.55
+2026-05-12,EMP018,Divya Saxena,Operations,Senior Executive,WFH,09:07,18:25,9.3
+2026-05-13,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:14,18:13,8.98
+2026-05-14,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:55,18:10,9.25
+2026-05-15,EMP018,Divya Saxena,Operations,Senior Executive,Late,09:58,18:14,8.27
+2026-05-18,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:10,18:22,9.2
+2026-05-19,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:55,18:14,9.32
+2026-05-20,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-05-21,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-05-22,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-05-25,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:54,18:19,9.42
+2026-05-26,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:03,18:12,9.15
+2026-05-27,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:21,18:02,8.68
+2026-05-28,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:08,18:06,8.97
+2026-05-29,EMP018,Divya Saxena,Operations,Senior Executive,Late,10:06,18:06,8.0
+2026-06-01,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-06-02,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:52,17:51,8.98
+2026-06-03,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-06-04,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:51,17:52,9.02
+2026-06-05,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:18,18:14,8.93
+2026-06-08,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:17,17:57,8.67
+2026-06-09,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-06-10,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:09,17:55,8.77
+2026-06-11,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:55,18:26,9.52
+2026-06-12,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:06,17:50,8.73
+2026-06-15,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:00,17:48,8.8
+2026-06-16,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:09,18:29,9.33
+2026-06-17,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:17,18:26,9.15
+2026-06-18,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:56,17:45,8.82
+2026-06-19,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:20,17:49,8.48
+2026-06-22,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:04,18:18,9.23
+2026-06-23,EMP018,Divya Saxena,Operations,Senior Executive,Leave,,,0.0
+2026-06-24,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:50,17:45,8.92
+2026-06-25,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-06-26,EMP018,Divya Saxena,Operations,Senior Executive,Present,08:57,18:12,9.25
+2026-06-29,EMP018,Divya Saxena,Operations,Senior Executive,Absent,,,0.0
+2026-06-30,EMP018,Divya Saxena,Operations,Senior Executive,Present,09:20,17:49,8.48
+2026-04-01,EMP019,Manish Rai,Operations,Team Lead,Present,08:56,17:51,8.92
+2026-04-02,EMP019,Manish Rai,Operations,Team Lead,Present,09:09,17:53,8.73
+2026-04-03,EMP019,Manish Rai,Operations,Team Lead,Present,08:58,18:26,9.47
+2026-04-06,EMP019,Manish Rai,Operations,Team Lead,Present,09:23,18:21,8.97
+2026-04-07,EMP019,Manish Rai,Operations,Team Lead,Present,09:00,18:13,9.22
+2026-04-08,EMP019,Manish Rai,Operations,Team Lead,Present,08:59,18:11,9.2
+2026-04-09,EMP019,Manish Rai,Operations,Team Lead,WFH,09:03,17:50,8.78
+2026-04-10,EMP019,Manish Rai,Operations,Team Lead,Present,08:57,18:22,9.42
+2026-04-13,EMP019,Manish Rai,Operations,Team Lead,Absent,,,0.0
+2026-04-14,EMP019,Manish Rai,Operations,Team Lead,Present,08:58,18:00,9.03
+2026-04-15,EMP019,Manish Rai,Operations,Team Lead,Present,09:05,18:20,9.25
+2026-04-16,EMP019,Manish Rai,Operations,Team Lead,WFH,09:08,18:29,9.35
+2026-04-17,EMP019,Manish Rai,Operations,Team Lead,Present,09:09,17:58,8.82
+2026-04-20,EMP019,Manish Rai,Operations,Team Lead,Late,10:00,18:03,8.05
+2026-04-21,EMP019,Manish Rai,Operations,Team Lead,Present,09:05,18:16,9.18
+2026-04-22,EMP019,Manish Rai,Operations,Team Lead,Present,09:21,18:25,9.07
+2026-04-23,EMP019,Manish Rai,Operations,Team Lead,Present,08:50,18:08,9.3
+2026-04-24,EMP019,Manish Rai,Operations,Team Lead,Present,09:16,18:08,8.87
+2026-04-27,EMP019,Manish Rai,Operations,Team Lead,Late,09:39,17:46,8.12
+2026-04-28,EMP019,Manish Rai,Operations,Team Lead,Present,09:06,17:58,8.87
+2026-04-29,EMP019,Manish Rai,Operations,Team Lead,Present,09:15,18:17,9.03
+2026-04-30,EMP019,Manish Rai,Operations,Team Lead,Present,09:22,18:11,8.82
+2026-05-01,EMP019,Manish Rai,Operations,Team Lead,Present,08:55,18:25,9.5
+2026-05-04,EMP019,Manish Rai,Operations,Team Lead,Late,09:52,17:50,7.97
+2026-05-05,EMP019,Manish Rai,Operations,Team Lead,Present,09:03,17:54,8.85
+2026-05-06,EMP019,Manish Rai,Operations,Team Lead,Late,09:54,18:29,8.58
+2026-05-07,EMP019,Manish Rai,Operations,Team Lead,Present,09:05,17:48,8.72
+2026-05-08,EMP019,Manish Rai,Operations,Team Lead,Present,09:17,17:52,8.58
+2026-05-11,EMP019,Manish Rai,Operations,Team Lead,Present,08:53,18:04,9.18
+2026-05-12,EMP019,Manish Rai,Operations,Team Lead,Leave,,,0.0
+2026-05-13,EMP019,Manish Rai,Operations,Team Lead,Present,08:50,18:30,9.67
+2026-05-14,EMP019,Manish Rai,Operations,Team Lead,Present,09:00,18:16,9.27
+2026-05-15,EMP019,Manish Rai,Operations,Team Lead,Present,09:06,17:55,8.82
+2026-05-18,EMP019,Manish Rai,Operations,Team Lead,Present,09:07,17:52,8.75
+2026-05-19,EMP019,Manish Rai,Operations,Team Lead,Present,09:17,18:02,8.75
+2026-05-20,EMP019,Manish Rai,Operations,Team Lead,Present,08:54,18:16,9.37
+2026-05-21,EMP019,Manish Rai,Operations,Team Lead,Present,08:53,18:16,9.38
+2026-05-22,EMP019,Manish Rai,Operations,Team Lead,Present,09:00,18:01,9.02
+2026-05-25,EMP019,Manish Rai,Operations,Team Lead,Present,08:57,17:59,9.03
+2026-05-26,EMP019,Manish Rai,Operations,Team Lead,Absent,,,0.0
+2026-05-27,EMP019,Manish Rai,Operations,Team Lead,Present,08:50,18:00,9.17
+2026-05-28,EMP019,Manish Rai,Operations,Team Lead,Present,09:14,17:54,8.67
+2026-05-29,EMP019,Manish Rai,Operations,Team Lead,Present,08:52,18:20,9.47
+2026-06-01,EMP019,Manish Rai,Operations,Team Lead,Absent,,,0.0
+2026-06-02,EMP019,Manish Rai,Operations,Team Lead,Present,09:05,18:11,9.1
+2026-06-03,EMP019,Manish Rai,Operations,Team Lead,Absent,,,0.0
+2026-06-04,EMP019,Manish Rai,Operations,Team Lead,Present,08:57,18:17,9.33
+2026-06-05,EMP019,Manish Rai,Operations,Team Lead,Leave,,,0.0
+2026-06-08,EMP019,Manish Rai,Operations,Team Lead,Present,09:23,17:47,8.4
+2026-06-09,EMP019,Manish Rai,Operations,Team Lead,Present,09:19,18:03,8.73
+2026-06-10,EMP019,Manish Rai,Operations,Team Lead,Present,09:25,18:14,8.82
+2026-06-11,EMP019,Manish Rai,Operations,Team Lead,Present,09:08,18:21,9.22
+2026-06-12,EMP019,Manish Rai,Operations,Team Lead,Present,09:05,18:14,9.15
+2026-06-15,EMP019,Manish Rai,Operations,Team Lead,Present,09:21,17:57,8.6
+2026-06-16,EMP019,Manish Rai,Operations,Team Lead,Absent,,,0.0
+2026-06-17,EMP019,Manish Rai,Operations,Team Lead,Present,09:16,17:46,8.5
+2026-06-18,EMP019,Manish Rai,Operations,Team Lead,Present,08:50,18:06,9.27
+2026-06-19,EMP019,Manish Rai,Operations,Team Lead,Present,09:14,18:04,8.83
+2026-06-22,EMP019,Manish Rai,Operations,Team Lead,Present,09:05,18:11,9.1
+2026-06-23,EMP019,Manish Rai,Operations,Team Lead,Present,08:59,18:30,9.52
+2026-06-24,EMP019,Manish Rai,Operations,Team Lead,Present,09:04,18:18,9.23
+2026-06-25,EMP019,Manish Rai,Operations,Team Lead,Present,09:13,18:14,9.02
+2026-06-26,EMP019,Manish Rai,Operations,Team Lead,Present,08:56,18:17,9.35
+2026-06-29,EMP019,Manish Rai,Operations,Team Lead,Present,09:15,17:49,8.57
+2026-06-30,EMP019,Manish Rai,Operations,Team Lead,WFH,09:17,18:27,9.17
+2026-04-01,EMP020,Tanya Kapoor,Admin,Executive,Present,09:05,18:03,8.97
+2026-04-02,EMP020,Tanya Kapoor,Admin,Executive,Present,09:10,18:10,9.0
+2026-04-03,EMP020,Tanya Kapoor,Admin,Executive,Absent,,,0.0
+2026-04-06,EMP020,Tanya Kapoor,Admin,Executive,Absent,,,0.0
+2026-04-07,EMP020,Tanya Kapoor,Admin,Executive,Present,09:10,18:13,9.05
+2026-04-08,EMP020,Tanya Kapoor,Admin,Executive,Present,09:04,17:49,8.75
+2026-04-09,EMP020,Tanya Kapoor,Admin,Executive,Present,08:58,18:22,9.4
+2026-04-10,EMP020,Tanya Kapoor,Admin,Executive,Present,08:59,17:51,8.87
+2026-04-13,EMP020,Tanya Kapoor,Admin,Executive,Present,09:18,18:14,8.93
+2026-04-14,EMP020,Tanya Kapoor,Admin,Executive,Present,09:16,17:52,8.6
+2026-04-15,EMP020,Tanya Kapoor,Admin,Executive,Late,09:48,18:13,8.42
+2026-04-16,EMP020,Tanya Kapoor,Admin,Executive,Present,09:19,18:01,8.7
+2026-04-17,EMP020,Tanya Kapoor,Admin,Executive,Present,08:55,17:55,9.0
+2026-04-20,EMP020,Tanya Kapoor,Admin,Executive,Leave,,,0.0
+2026-04-21,EMP020,Tanya Kapoor,Admin,Executive,Present,08:52,17:58,9.1
+2026-04-22,EMP020,Tanya Kapoor,Admin,Executive,Present,08:59,17:50,8.85
+2026-04-23,EMP020,Tanya Kapoor,Admin,Executive,Absent,,,0.0
+2026-04-24,EMP020,Tanya Kapoor,Admin,Executive,Present,09:12,18:10,8.97
+2026-04-27,EMP020,Tanya Kapoor,Admin,Executive,Late,09:54,18:01,8.12
+2026-04-28,EMP020,Tanya Kapoor,Admin,Executive,Present,08:51,18:10,9.32
+2026-04-29,EMP020,Tanya Kapoor,Admin,Executive,Present,09:25,18:20,8.92
+2026-04-30,EMP020,Tanya Kapoor,Admin,Executive,Present,08:56,18:14,9.3
+2026-05-01,EMP020,Tanya Kapoor,Admin,Executive,Present,08:58,17:52,8.9
+2026-05-04,EMP020,Tanya Kapoor,Admin,Executive,Present,08:53,17:59,9.1
+2026-05-05,EMP020,Tanya Kapoor,Admin,Executive,Present,09:02,18:10,9.13
+2026-05-06,EMP020,Tanya Kapoor,Admin,Executive,Present,08:55,18:22,9.45
+2026-05-07,EMP020,Tanya Kapoor,Admin,Executive,WFH,09:06,17:49,8.72
+2026-05-08,EMP020,Tanya Kapoor,Admin,Executive,Present,08:54,17:57,9.05
+2026-05-11,EMP020,Tanya Kapoor,Admin,Executive,Leave,,,0.0
+2026-05-12,EMP020,Tanya Kapoor,Admin,Executive,Present,08:58,17:50,8.87
+2026-05-13,EMP020,Tanya Kapoor,Admin,Executive,Present,08:57,17:47,8.83
+2026-05-14,EMP020,Tanya Kapoor,Admin,Executive,Present,08:53,17:55,9.03
+2026-05-15,EMP020,Tanya Kapoor,Admin,Executive,WFH,09:17,18:10,8.88
+2026-05-18,EMP020,Tanya Kapoor,Admin,Executive,Present,08:51,18:09,9.3
+2026-05-19,EMP020,Tanya Kapoor,Admin,Executive,Leave,,,0.0
+2026-05-20,EMP020,Tanya Kapoor,Admin,Executive,Present,09:01,18:07,9.1
+2026-05-21,EMP020,Tanya Kapoor,Admin,Executive,Present,09:01,18:02,9.02
+2026-05-22,EMP020,Tanya Kapoor,Admin,Executive,Present,09:18,17:54,8.6
+2026-05-25,EMP020,Tanya Kapoor,Admin,Executive,Present,09:05,18:26,9.35
+2026-05-26,EMP020,Tanya Kapoor,Admin,Executive,Present,09:21,18:11,8.83
+2026-05-27,EMP020,Tanya Kapoor,Admin,Executive,Late,09:38,17:50,8.2
+2026-05-28,EMP020,Tanya Kapoor,Admin,Executive,Present,09:14,17:53,8.65
+2026-05-29,EMP020,Tanya Kapoor,Admin,Executive,Present,09:02,18:26,9.4
+2026-06-01,EMP020,Tanya Kapoor,Admin,Executive,Late,10:09,17:46,7.62
+2026-06-02,EMP020,Tanya Kapoor,Admin,Executive,Present,09:12,18:15,9.05
+2026-06-03,EMP020,Tanya Kapoor,Admin,Executive,Late,09:57,18:21,8.4
+2026-06-04,EMP020,Tanya Kapoor,Admin,Executive,Late,09:59,18:02,8.05
+2026-06-05,EMP020,Tanya Kapoor,Admin,Executive,Present,08:51,18:05,9.23
+2026-06-08,EMP020,Tanya Kapoor,Admin,Executive,WFH,09:04,17:46,8.7
+2026-06-09,EMP020,Tanya Kapoor,Admin,Executive,Present,08:53,18:15,9.37
+2026-06-10,EMP020,Tanya Kapoor,Admin,Executive,Late,09:49,17:55,8.1
+2026-06-11,EMP020,Tanya Kapoor,Admin,Executive,Present,09:05,18:27,9.37
+2026-06-12,EMP020,Tanya Kapoor,Admin,Executive,Present,09:07,18:19,9.2
+2026-06-15,EMP020,Tanya Kapoor,Admin,Executive,Absent,,,0.0
+2026-06-16,EMP020,Tanya Kapoor,Admin,Executive,Present,09:04,18:21,9.28
+2026-06-17,EMP020,Tanya Kapoor,Admin,Executive,Present,09:12,17:56,8.73
+2026-06-18,EMP020,Tanya Kapoor,Admin,Executive,Present,09:05,18:22,9.28
+2026-06-19,EMP020,Tanya Kapoor,Admin,Executive,Present,09:12,18:22,9.17
+2026-06-22,EMP020,Tanya Kapoor,Admin,Executive,Present,09:12,18:21,9.15
+2026-06-23,EMP020,Tanya Kapoor,Admin,Executive,WFH,08:59,18:21,9.37
+2026-06-24,EMP020,Tanya Kapoor,Admin,Executive,Present,09:21,18:19,8.97
+2026-06-25,EMP020,Tanya Kapoor,Admin,Executive,Present,09:01,18:16,9.25
+2026-06-26,EMP020,Tanya Kapoor,Admin,Executive,Present,08:55,17:48,8.88
+2026-06-29,EMP020,Tanya Kapoor,Admin,Executive,Present,09:04,17:46,8.7
+2026-06-30,EMP020,Tanya Kapoor,Admin,Executive,Late,09:35,18:06,8.52
